@@ -1,0 +1,18 @@
+# Coding instrument — SHA-256 hashes of the frozen v5.3 prompt + support files.
+# Hashes prove immutability across the corpus build; prompt CONTENT is withheld.
+# Available to reviewers/editors under confidentiality.
+
+[prompt files]
+pass1.ts        bedb879aba09ca2146739bc3962899745699b25c893dd1856fccc45388f4361b
+pass2.ts        9b92e22c2871747b63ebd35afc9addae6be6b2246157cbdfbdd379679303fbcc
+appendices.ts   5967534abe5e0a2286f858209c0dfeaafb7ca9efc1b9b06fc3104f812405930d
+
+[pipeline support files]
+semantic-align.ts          c55b49af4f3cc51b6140ff4c87faec70aa00326f05a24b503af157d576d74669
+reliability-instrument.ts  f155649c6f9c907efee42475d28f096b6053d3973d90abaca24fc54ccc4707bd
+paragraph-context.ts       d9cd1b8dc677ea0d2a0409cc2ef8420ee2043302509e69eaafec77abf5ee2cf8
+
+[freeze metadata]
+codebook_version           v5.3
+codebook_spec_file         Codebook_v5_3_Spec.md  (withheld)
+freeze_decision_date       2026-06-08

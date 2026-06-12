@@ -1,0 +1,308 @@
+Now I have sufficient data to write a comprehensive, well-structured case study. Let me compile it.Here is the full, comprehensive case study:
+
+---
+
+# 📋 SLB (Schlumberger) Strategic Case Study
+## *Navigating the Dual Imperative: Sustaining Core Dominance While Pivoting to the Energy Transition*
+
+---
+
+## 1. EXECUTIVE SUMMARY
+
+SLB (formerly Schlumberger) is the world's largest oilfield services provider, with $36.3 billion in revenue and operations spanning more than 100 countries. Having rebranded in 2022 to signal a technology-first identity, SLB faces a **dual imperative**: sustaining profitability in its core oil and gas services business while aggressively pivoting toward digital transformation and new energy systems. In 2023, SLB surpassed its revenue targets, generating $33.14 billion in revenue (up 18% year-on-year), $4.20 billion in net income (up 22%), and $6.64 billion in cash flow from operations. Despite this strong financial performance, structural headwinds — energy transition pressures, oil price volatility, intensifying competition, and geopolitical concentration risk — threaten its long-term relevance. This case study analyses SLB's strategic situation using a suite of theoretical frameworks and concludes with a set of actionable recommendations.
+
+---
+
+## 2. COMPANY BACKGROUND & CONTEXT
+
+SLB was founded in 1926 in France by brothers Conrad and Marcel Schlumberger. Over nearly a century, it evolved from pioneering well-logging technology into the world's largest oilfield services provider. SLB operates in 100+ countries across subsurface, drilling, completions, production, and processing; about 80% of revenue is international.
+
+Its four primary business segments are:
+- **Digital & Integration** – Cloud, AI, and data platforms (Delfi™, Lumi™)
+- **Reservoir Performance** – Evaluation, stimulation, and intervention services
+- **Well Construction** – Drilling, bits, and well integrity
+- **Production Systems** – Artificial lift, production chemicals, and surface equipment
+
+To support its ambition, SLB created a strategic roadmap to drive three engines of growth: Core Oil and Gas, Digital, and New Energy. Most recently, SLB closed its $7.8 billion all-stock acquisition of ChampionX, designed to enhance performance across the entire production lifecycle.
+
+---
+
+## 3. THE STRATEGIC SITUATION
+
+SLB's central strategic challenge is a **dual imperative dilemma**. On one hand, the company must continue to extract maximum value from its core oil and gas services business. On the other, the accelerating global energy transition threatens the long-term viability of fossil fuel-dependent business models. This tension is compounded by several pressures:
+
+- "Commodity prices are challenged — and until they stabilise, customers are likely to take a more cautious approach to near-term activity and spending." At this point, global upstream investment is expected to decline compared to 2024.
+- Nearly 40% of SLB's international revenue originates from the Middle East; regional conflict or Eurasian trade disruptions could cause abrupt operational halts and personnel safety challenges.
+- Small, agile startups building AI-driven drilling algorithms and autonomous robotics could erode SLB's share — VC funding into oilfield tech reached $1.2 billion in 2024, raising disruption risk.
+
+The core strategic question is: **How should SLB allocate resources and configure its business portfolio to sustain competitive advantage in the short term while building the capabilities needed for long-term survival in a decarbonising energy landscape?**
+
+---
+
+## 4. ENVIRONMENTAL ANALYSIS – PESTEL
+
+### 🔵 Political
+Geopolitical instability in the Middle East — SLB's most profitable region — represents a material political risk. Simultaneously, the Paris Agreement, the EU Green Deal, and the US Inflation Reduction Act create regulatory pressure and financial incentives that accelerate the energy transition, expanding the market for SLB's new energy capabilities. Global economic growth and a heightened focus on energy security, coupled with rising energy demand from AI and data centres, will support the investment outlook for the oil and gas industry throughout the rest of the decade.
+
+### 🟡 Economic
+SLB's operations are inherently subject to the cyclical nature of the oil and gas industry. Fluctuations in oil and gas prices, driven by geopolitical events, economic conditions, and supply-demand dynamics, significantly impact customer expenditures. In 2025, oil oversupply from OPEC+ production increases placed further pressure on customer spending.
+
+### 🟠 Social
+Growing public and investor awareness of climate change is reshaping expectations of energy companies. SLB created its SLB name to signal a refocus on newer energy services such as carbon-capture technology and the development of hydrogen, geothermal energy, and geo-energy. This rebranding is partly a response to ESG-driven social pressure.
+
+### 🔴 Technological
+SLB and NVIDIA announced that they will build on their long-standing collaboration to develop generative AI solutions for the energy industry, building and optimising models for the data-intensive energy industry, including subsurface exploration. Meanwhile, the Delfi platform has shown promising results with a growing user base, and the Lumi AI platform integrates with Delfi, enhancing capabilities like reservoir modelling, seismic interpretation, and operational automation.
+
+### 🟢 Environmental
+In 2024, SLB successfully injected 100% of captured carbon dioxide (CO₂) underground at the Cygnus Hub CCS project in Western Australia, demonstrating strong operability and readiness to scale. SLB's own net-zero ambitions create both reputational opportunity and operational cost pressure.
+
+### ⚫ Legal
+The UK Competition and Markets Authority (CMA) declined to unconditionally clear SLB's planned acquisition of ChampionX during the CMA's Phase 1 review period, illustrating the regulatory complexity of large M&A transactions. Data privacy and cybersecurity regulations are increasingly important as SLB's digital business grows.
+
+**PESTEL Summary**: The macro environment presents SLB with a complex mix of near-term demand support (energy security, resilient international investment) and long-term structural disruption (energy transition, digital displacement). SLB must navigate this with a dual-horizon strategy.
+
+---
+
+## 5. INDUSTRY ANALYSIS – PORTER'S FIVE FORCES
+
+### ⚔️ Threat of New Entrants: LOW to MODERATE
+SLB operates in 100+ countries across subsurface, drilling, completions, production, and processing, with multi-billion free cash flow. This scale creates near-insurmountable barriers in physical services. However, the digital dimension lowers entry barriers in specific sub-segments: VC funding into oilfield tech reached $1.2 billion in 2024, enabling startups to develop AI-driven drilling algorithms and autonomous robotics.
+
+### 🏭 Bargaining Power of Suppliers: MODERATE
+SLB relies on a global network of specialised suppliers. However, its global scale and purchasing power provide countervailing negotiating strength, and vertical integration in some product lines reduces dependency.
+
+### 🛒 Bargaining Power of Buyers: MODERATE to HIGH
+SLB's customers — IOCs, NOCs, and independent E&P firms — are large, sophisticated organisations. Primary customer segments include international deepwater operators and national oil companies, which can exert considerable price pressure through competitive tendering. The trend toward integrated contracts increases switching costs, partially mitigating buyer power.
+
+### 🔄 Threat of Substitutes: MODERATE and RISING
+In the core oil and gas business, there is no immediate substitute for drilling and completion services. However, at the macro level, the energy transition represents the ultimate substitute threat. Schlumberger faces a significant threat from substitutes as the energy transition advances.
+
+### 🥊 Competitive Rivalry: HIGH
+The primary competitors challenging SLB's market position include Halliburton Company, Baker Hughes Company, and Weatherford International Plc. The Drilling and Measurements core holds approximately 30% of global wireline and MWD/LWD services and an installed base servicing ~25,000 active rigs in 2024. All three major players are pursuing broadly similar digital transformation and energy transition diversification strategies, making differentiation through proprietary technology the key competitive battleground.
+
+**Five Forces Summary**: The industry structure is moderately attractive in the near term but faces increasing competitive intensity and long-term substitution pressure. Sustained investment in technological differentiation is essential.
+
+---
+
+## 6. INTERNAL ANALYSIS – VRIO FRAMEWORK
+
+The VRIO framework (Barney, 1991) assesses whether resources generate **Sustained Competitive Advantage (SCA)**, **Temporary Competitive Advantage (TCA)**, or **Competitive Parity (CP)**.
+
+| Resource / Capability | Valuable | Rare | Inimitable | Organised | Implication |
+|---|:---:|:---:|:---:|:---:|---|
+| Global operational scale (100+ countries) | ✅ | ✅ | ✅ | ✅ | **SCA** |
+| Proprietary technology & patents | ✅ | ✅ | ✅ | ✅ | **SCA** |
+| Delfi™ / Lumi™ digital platforms | ✅ | ✅ | ⚠️ Partially | ✅ | **TCA** |
+| Deep NOC/IOC customer relationships | ✅ | ✅ | ✅ | ✅ | **SCA** |
+| Subsurface domain expertise | ✅ | ✅ | ✅ | ✅ | **SCA** |
+| Financial strength & cash generation | ✅ | ⚠️ Partially | ⚠️ Partially | ✅ | **CP** |
+| Brand and 100-year reputation | ✅ | ✅ | ✅ | ✅ | **SCA** |
+| New Energy capabilities (CCUS/geothermal) | ✅ | ✅ | ⚠️ Partially | ⚠️ Partially | **TCA (Developing)** |
+
+**Key Insight**: SLB's most durable competitive advantages lie in its global scale, deep subsurface domain expertise, long-standing customer relationships, and proprietary technology portfolio — all of which are genuinely difficult to replicate. SLB's digital solutions, such as the Delfi™ digital platform and Lumi™ data and AI platform, are driving efficiency and enabling AI-driven decision-making across the energy industry, but these represent a temporary rather than sustained advantage, as competitors are investing heavily in similar capabilities. New energy capabilities remain nascent.
+
+---
+
+## 7. STRATEGIC POSITION – SWOT ANALYSIS
+
+### ✅ Strengths
+- **Market leadership**: Founded in 1926, SLB has evolved from pioneering well logging to becoming the world's largest oilfield services provider.
+- **R&D investment**: The company invested $731 million in R&D for the twelve months ending June 30, 2025, fuelling the development of digital solutions and expanding its AI innovation network.
+- **Digital traction**: Over the past few years, customers have made investments to modernise their digital infrastructures, and SLB remains on track to reach approximately $3 billion in digital revenue annually by 2025.
+- **Strong cash generation**: $6.64 billion in operating cash flow in 2023 provides capacity for investment, M&A, and shareholder returns.
+
+### ⚠️ Weaknesses
+- **Cyclical revenue exposure**: The majority of revenues remain tied to oil and gas capital expenditure cycles, creating earnings volatility.
+- **Geopolitical concentration**: Nearly 40% of SLB's international revenue originates from the Middle East.
+- **New Energy nascency**: Despite strategic intent, the New Energy business remains small relative to the core, with execution risk.
+- Maintaining a competitive edge necessitates ongoing, significant investment in R&D to counter disruptive innovations, and failure to keep pace with rapid technological advancements could lead to a decline in market position.
+
+### 🚀 Opportunities
+- **Digital transformation wave**: The Digital & Integration segment is a key growth driver, with digital revenue increasing by 17% year-on-year in Q1 2025.
+- **New Energy scale-up**: SLB New Energy is expected to bring in around $3 billion by the end of this decade and at least $10 billion by the end of the next decade, focusing on CCUS, geothermal, hydrogen, and energy storage.
+- **Geothermal resurgence**: The global economic environment and the inherent stability of geothermal energy as baseload renewable power have reinvigorated the geothermal market. SLB's GeothermEx offering is the world's leading geothermal consultancy.
+- **AI & NVIDIA collaboration**: Generative AI solutions for energy open a potentially transformative new revenue stream.
+
+### 🔴 Threats
+- **Oil price downturn**: SLB sees tough times in 2025 owing to oil oversupply, tariffs, and OPEC+ crude releases, with global upstream investment expected to decline.
+- **Competitive disruption**: Rapid software innovation means a breakthrough from non-traditional firms could obsolete SLB's services; SLB spent $1.1 billion on R&D in 2024, yet acquisitions to defend position can cost $500 million–$3 billion each.
+- **Cybersecurity**: Potential direct costs from a major breach could reach $100 million–$500 million.
+
+---
+
+## 8. BUSINESS-LEVEL STRATEGY – PORTER'S GENERIC STRATEGIES & BOWMAN'S STRATEGY CLOCK
+
+### Porter's Generic Strategies
+SLB primarily pursues a **Differentiation Strategy**. Rather than competing on price alone, it differentiates through technological superiority, integrated end-to-end solutions, and digital platforms. SLB's robust international presence and digital innovation drive its market leadership, with its strategic focus on digital, core, and new energy businesses positioning it for continued competitive strength.
+
+However, SLB also leverages **Cost Leadership** elements in commoditised service lines through operational scale and global procurement leverage. This positions it in a **Hybrid Strategy** — sustaining both cost efficiency and differentiation simultaneously, a defensible position given its scale.
+
+### Bowman's Strategy Clock
+On Bowman's Strategy Clock, SLB occupies:
+- **Position 4 (Differentiation)** for premium technology and integrated solutions — high perceived value, premium price
+- **Position 3 (Hybrid)** in commoditised service lines — above-average perceived value at competitive prices
+
+The strategic risk is gravitating toward **Position 6 (Risky High Margins)** if digital-native competitors undercut on price while matching on functionality — a real threat as platform-based models scale globally.
+
+---
+
+## 9. CORPORATE-LEVEL STRATEGY – ANSOFF MATRIX & BCG MATRIX
+
+### Ansoff Matrix
+
+SLB's three-engine growth strategy maps directly onto the Ansoff Matrix:
+
+| | **Existing Markets** | **New Markets** |
+|---|---|---|
+| **Existing Products** | **Market Penetration** – Deepening share with existing NOC/IOC clients through integrated contracts and performance-based models | **Market Development** – Expanding Delfi™/Lumi™ into new geographies (Africa, Southeast Asia) |
+| **New Products** | **Product Development** – Increased adoption of new digital solutions is supporting visible revenue expansion; Lumi™ AI for existing E&P customers | **Diversification** – SLB New Energy targeting CCUS, geothermal, hydrogen, and energy storage for new customer segments |
+
+The highest-risk quadrant — **Diversification into New Energy** — is where SLB is making its boldest long-term bets. This is strategically necessary given the long-term structural threat to the core, but requires disciplined resource allocation to avoid over-stretching.
+
+### BCG Matrix
+
+| Segment | BCG Category | Rationale |
+|---|---|---|
+| **Digital & Integration** | ⭐ **Star** | Digital & Integration pretax operating margin of 36% expanded 456 bps sequentially, mostly due to improved profitability in digital following higher uptake of digital products and solutions. High growth, high margin |
+| **Well Construction** | 🐄 **Cash Cow** | Mature market; strong cash flows fund investment elsewhere |
+| **Reservoir Performance** | 🐄 **Cash Cow** | Stable, high-margin; sustains cash generation |
+| **Production Systems (incl. ChampionX)** | ⭐ **Emerging Star** | Production Systems revenue posted record quarterly revenue with pretax segment operating margin expanding year-on-year for the ninth consecutive quarter; growing with capital-light model |
+| **New Energy (CCUS, Geothermal, H₂)** | ❓ **Question Mark** | High strategic importance; nascent revenues; high uncertainty |
+
+**Portfolio Implication**: SLB's Cash Cows fund investment in its Stars and Question Marks. The strategic imperative is to successfully convert New Energy Question Marks into Stars before the Cash Cows decline as the energy transition accelerates.
+
+---
+
+## 10. STRATEGIC FIT – McKINSEY 7S FRAMEWORK
+
+The McKinsey 7S Framework assesses whether SLB's internal elements are aligned to support its strategy.
+
+| Element | Current State | Alignment |
+|---|---|---|
+| **Strategy** | Three-engine growth (Core, Digital, New Energy) | ✅ Clear and well-articulated |
+| **Structure** | Matrix by geography and business segment; Digital & Integration as separate segment | ⚠️ Legacy silos impede cross-segment digital integration |
+| **Systems** | Delfi™ and Lumi™ platforms; global operational management systems | ✅ Strong in digital; ChampionX integration is a near-term challenge |
+| **Shared Values** | "Balanced planet" purpose; engineering excellence | ⚠️ Cultural tension between legacy oilfield identity and technology/sustainability transformation |
+| **Style** | Engineering-led, performance-driven leadership under CEO Olivier Le Peuch | ✅ Consistent with technology differentiation strategy |
+| **Staff** | ~100,000 employees; strong engineering talent; growing digital capability | ⚠️ Talent gap in AI, digital, and clean energy relative to strategic ambition |
+| **Skills** | World-class subsurface expertise; growing digital capabilities; nascent new energy skills | ⚠️ New energy skills remain underdeveloped relative to strategic goals |
+
+**7S Insight**: The most significant misalignment is between SLB's ambitious strategy and its organisational structure, culture, and talent base. The legacy oilfield services identity creates cultural resistance to transformation, and the talent pipeline for digital and clean energy roles is insufficient to execute the strategy at the required pace.
+
+---
+
+## 11. RECOMMENDATIONS & ACTION PLAN
+
+Based on the multi-framework analysis, the following six strategic recommendations are proposed:
+
+---
+
+### 🚀 Recommendation 1: Accelerate the Digital Platform as a Standalone Growth Engine
+
+**Rationale**: SLB's digital initiatives, particularly the Delfi digital platform and the newly introduced Lumi AI offering, present significant opportunities for future growth, with applications spanning the entire E&P lifecycle. With a 36% pretax operating margin, this is the highest-value growth vector and the most defensible long-term competitive moat.
+
+**Actions**:
+- Set a new target of $6 billion in digital revenue by 2028, beyond the current $3 billion by 2025 ambition.
+- Expand the NVIDIA generative AI partnership into a full joint go-to-market programme targeting NOCs in the Middle East and Asia.
+- Position Delfi™ and Lumi™ as open, interoperable platforms to maximise adoption and create ecosystem lock-in.
+- Explore a partial IPO or carve-out of the digital business to unlock its technology-sector valuation premium and attract specialist talent.
+
+**Timeline**: 12–36 months | **KPIs**: Digital revenue growth rate, platform user base, digital EBITDA margin
+
+---
+
+### 🌍 Recommendation 2: Reduce Geopolitical Concentration Risk Through Geographic Diversification
+
+**Rationale**: With nearly 40% of international revenue concentrated in the Middle East, SLB is materially exposed to regional instability. Diversification is a strategic imperative.
+
+**Actions**:
+- Increase investment in Latin America (Brazil's pre-salt deepwater) and sub-Saharan Africa (new discoveries driving upstream investment).
+- Leverage ChampionX's North American presence to grow US onshore market share, reducing the relative weight of Middle Eastern revenue.
+- Pursue long-term service agreements (LTSAs) with NOCs in Southeast Asia (Indonesia, Malaysia, Vietnam).
+
+**Timeline**: 24–48 months | **KPIs**: Revenue by geography (target: Middle East share below 30% by 2028); new LTSAs signed outside the Middle East
+
+---
+
+### ♻️ Recommendation 3: Commercialise New Energy at Scale Through Strategic Partnerships
+
+**Rationale**: SLB New Energy is targeting billion-dollar business opportunities, aiming for $3 billion by the end of this decade and at least $10 billion by the end of the next. Rather than building all capabilities organically, SLB should accelerate through partnerships that share risk and leverage complementary capabilities.
+
+**Actions**:
+- Form a dedicated CCUS joint venture with a major utility or industrial company, creating a replicable CCS-as-a-service offering, building on the success of the Cygnus Hub CCS project in Western Australia.
+- Expand GeothermEx into a full project development and operations business, targeting the growing data centre and industrial heat markets.
+- Establish a hydrogen technology licensing programme to monetise the ZEG ICC™ technology without requiring full project ownership.
+- Set a credible milestone: $1 billion in New Energy revenue by 2027, $3 billion by 2030.
+
+**Timeline**: 18–48 months | **KPIs**: New Energy revenue milestones; commercial CCUS/geothermal projects operational
+
+---
+
+### 🧠 Recommendation 4: Resolve the 7S Misalignment — Transform Culture and Talent
+
+**Rationale**: The McKinsey 7S analysis reveals that SLB's most critical internal weakness is the misalignment between its transformational strategy and its legacy culture, structure, and talent base. Without addressing this, the strategy will fail in execution.
+
+**Actions**:
+- Launch a CEO-sponsored "Technology Company Transformation" programme to embed a digital-first, sustainability-oriented culture.
+- Restructure the organisation to create clearer cross-segment integration between Digital & Integration and the other three segments, breaking down legacy silos.
+- Establish a dedicated talent acquisition programme targeting AI/ML engineers, data scientists, and clean energy specialists, with compensation benchmarked against technology sector peers.
+- Create a "Technology Fellows" programme to retain world-class technical talent.
+- Integrate sustainability and digital performance metrics into executive compensation.
+
+**Timeline**: 12–24 months | **KPIs**: Employee NPS; digital/clean energy headcount growth; internal promotion rate into digital roles
+
+---
+
+### 💰 Recommendation 5: Manage the Core Business for Cash — Selective Optimisation
+
+**Rationale**: The core Well Construction and Reservoir Performance businesses are the Cash Cows that fund the entire transformation. They must be managed for sustained cash generation without over-investing in growth.
+
+**Actions**:
+- Pursue further operational efficiency programmes in core services to protect margins during periods of reduced customer spending.
+- Selectively exit or divest non-core, low-margin service lines that do not contribute to the digital or new energy strategy.
+- Deploy performance-based contracting models (where SLB's compensation is linked to production outcomes) to create more resilient revenue streams and deepen customer relationships.
+
+**Timeline**: Ongoing | **KPIs**: Core segment EBITDA margins; free cash flow conversion; cost per unit of service
+
+---
+
+### 🔗 Recommendation 6: Complete ChampionX Integration and Capture Synergies
+
+**Rationale**: The acquisition expands SLB's presence in the less cyclical and growing production and recovery space, closely aligned with a returns-focused, capital-light strategy. But integration risk must be actively managed.
+
+**Actions**:
+- Establish a dedicated Integration Management Office (IMO) with a clear 24-month roadmap and milestones.
+- Prioritise integrating ChampionX's production chemicals capabilities with SLB's digital platforms to create differentiated, data-driven production optimisation services.
+- Target $300–400 million in annual synergies by Year 3 through procurement consolidation, shared infrastructure, and elimination of duplicate functions.
+- Retain key ChampionX talent through retention bonuses and clear career pathways.
+
+**Timeline**: 12–36 months | **KPIs**: Synergy realisation vs. target; customer retention rate; integration milestone achievement
+
+---
+
+### Strategic Priorities Summary
+
+| Priority | Horizon | Ansoff Quadrant | BCG Logic | Key Risk |
+|---|---|---|---|---|
+| 1. Accelerate Digital Platform | Short–Medium | Product Development | Invest in Stars | Tech competition |
+| 2. Geographic Diversification | Medium | Market Development | Reduce Cash Cow concentration | Execution complexity |
+| 3. New Energy Commercialisation | Medium–Long | Diversification | Convert Question Marks to Stars | Technology uncertainty |
+| 4. Culture & Talent Transformation | Short–Medium | Enabler | Unlock all quadrants | Resistance to change |
+| 5. Core Business Optimisation | Ongoing | Market Penetration | Sustain Cash Cows | Cyclical risk |
+| 6. ChampionX Integration | Short–Medium | Product Development | Grow Emerging Star | Integration distraction |
+
+---
+
+## 12. CONCLUSION
+
+SLB stands at one of the most consequential strategic crossroads in its nearly 100-year history. Its financial strength, technological leadership, global scale, and deep customer relationships provide a powerful platform for transformation. However, the convergence of energy transition pressures, digital disruption, geopolitical concentration risk, and competitive intensity means that maintaining the status quo is not a viable option.
+
+The frameworks applied in this analysis — PESTEL, Porter's Five Forces, VRIO, SWOT, Porter's Generic Strategies, Bowman's Strategy Clock, Ansoff Matrix, BCG Matrix, and McKinsey 7S — collectively point to a consistent strategic conclusion: SLB must pursue a **dual-horizon strategy** that simultaneously optimises the core business for cash generation and aggressively builds the digital and new energy capabilities that will define its competitive position in the 2030s and beyond.
+
+SLB's strategic focus on digital, core, and new energy businesses positions it to capitalise on emerging opportunities within the energy transition, complementing its established strengths in traditional oilfield services. The six recommendations presented — accelerating the digital platform, diversifying geographically, commercialising new energy at scale, transforming culture and talent, optimising the core for cash, and integrating ChampionX effectively — constitute a coherent and mutually reinforcing action plan.
+
+The greatest risk is not strategic ambiguity — SLB's three-engine strategy is clear and well-articulated. The greatest risk is **execution**: the gap between strategic intent and operational reality that has historically undermined incumbent firms facing disruptive change. Closing that gap, through the organisational, cultural, and talent transformations outlined above, is the defining leadership challenge for SLB in the years ahead.
+
+---
+
+*Theoretical frameworks referenced: Porter (1980, 1985) — Five Forces & Generic Strategies; Barney (1991) — VRIO; Ansoff (1957) — Growth Matrix; BCG (Henderson, 1970) — Growth-Share Matrix; McKinsey (Peters & Waterman, 1982) — 7S Framework; Bowman & Faulkner (1997) — Strategy Clock; Johnson, Scholes & Whittington — Exploring Strategy.*

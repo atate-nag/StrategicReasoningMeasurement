@@ -1,0 +1,235 @@
+Now I have comprehensive research. Let me compile the full case study with analysis.Now I have all the material needed. Let me write the comprehensive case study.
+
+---
+
+# COMAC and the C919: Strategic Tensions in China's State-Owned Aircraft Maker
+
+## A Case Study in Competitive Strategy, Resource Dependency, and Industrial Policy
+
+---
+
+## 1. Introduction and Context
+
+The Commercial Aircraft Corporation of China (COMAC) represents one of the most strategically significant state-owned enterprises (SOEs) in the contemporary global economy. Founded in 2008 and headquartered in Shanghai, COMAC was established with an explicit national mandate: to break the Boeing–Airbus duopoly in commercial aviation, reduce China's dependence on foreign aircraft, and position China as a global aerospace power. Its flagship product, the narrow-body C919, entered commercial service in May 2023 with China Eastern Airlines — a milestone that, on the surface, appeared to validate two decades of industrial ambition.
+
+Yet beneath this headline achievement lies a deeply contested strategic situation. COMAC faces challenges to spin up production of the C919, especially compared with its original goals for 2025, from building new assembly lines to securing foreign parts like advanced engines. The latest round of fundraising for COMAC was led by the State Council's State-owned Assets Supervision and Administration Commission, whose ownership stake increased to 53.08 per cent after the infusion — a signal that the state remains both the primary backer and the primary principal driving COMAC's direction. COMAC's C919 aims to break the Airbus-Boeing duopoly, but its journey has been marked by delays, geopolitics, and certification challenges.
+
+This case study analyses COMAC's strategic situation through four interconnected analytical lenses: Porter's Five Forces (industry structure), the Resource-Based View and Dynamic Capabilities (internal competencies), Principal–Agent Theory (governance), and the Ansoff Matrix (growth strategy). The analysis culminates in a set of actionable recommendations.
+
+---
+
+## 2. The Strategic Situation: Defining the Problem
+
+COMAC's core strategic tension can be stated precisely: *it is a state-created national champion in an industry where competitive advantage is built over decades, yet it faces an accelerating geopolitical clock that threatens to sever the very Western supply relationships on which it currently depends.* Three interlocking problems define this tension:
+
+**Problem 1 — Supply Chain Vulnerability.** The C919 relies heavily on Western suppliers for its most critical components, including the CFM International LEAP-1C engines, Honeywell avionics, and Safran flight-control systems. By value, approximately 60 per cent of the C919 comes from Western components. The CFM International LEAP-1C engine alone represents roughly 30 per cent of total aircraft cost. This dependency is not merely commercial; it is geopolitical.
+
+**Problem 2 — Production Underperformance.** COMAC is restructuring its supply chains to mitigate geopolitical risks following the suspension of CFM International LEAP-1C engine exports mid-2025. The manufacturer delivered fifteen C919 jets in 2025 — just over half of its revised target of 28. Initially targeting 75 deliveries in 2025, COMAC slashed its goal to 25 units, with only five aircraft delivered by mid-2025. This underperformance compounds investor and airline uncertainty.
+
+**Problem 3 — International Market Exclusion.** The C919 lacks American FAA and European Union Aviation Safety Agency (EASA) certifications, meaning it is unable to fly in most international markets. EASA Director Florian Guillermet stated that "the C919 will not be able to be certified in 2025," and that EASA is not planning to certify the aircraft within the next three to six years. Without international airworthiness recognition, COMAC's global ambitions remain structurally capped.
+
+These three problems are causally linked: supply-chain vulnerability slows production, production shortfalls erode airline confidence, and regulatory exclusion prevents the international orders that would justify the scale needed to reduce unit costs. The strategic analysis below unpacks why these problems exist and what can be done about them.
+
+---
+
+## 3. Industry Analysis: Porter's Five Forces
+
+Porter's Five Forces framework examines the structural attractiveness of an industry and the competitive pressures a firm faces (Porter, 1979). Applied to COMAC's position in the global commercial aircraft industry, the framework reveals a structurally hostile environment that only state backing makes tenable.
+
+### 3.1 Rivalry Among Existing Competitors — **Extreme**
+
+The commercial aircraft industry is defined by a duopoly. With more than 6,000 new single-aisle deliveries expected in China over the forecast period, the C919 is expected to capture around 25% market share compared to Boeing's 30% and Airbus's 45%. Even in its home market, COMAC faces deeply entrenched rivals whose aircraft already populate Chinese airline fleets. By 2030, IBA forecasts COMAC will have secured around 65% of new narrowbody deliveries to Chinese operators, but this will equate to just 7% of the total in-service fleet when legacy Airbus and Boeing types are included. This is a critical distinction: winning new orders does not quickly translate to fleet dominance because existing aircraft remain in service for 20–25 years.
+
+The rivalry is not purely commercial. The May 2025 suspension of U.S. engine exports — specifically targeting the LEAP engine jointly produced by GE and Safran — threatens to stall COMAC's global ambitions. This means Boeing's home government is effectively weaponising trade policy as a competitive instrument, a form of rivalry that transcends Porter's original framework and requires a geopolitical dimension in the analysis.
+
+### 3.2 Threat of New Entrants — **Low (but irrelevant to COMAC)**
+
+The commercial aviation industry has enormous barriers to entry: certification timescales of 5–9 years, capital requirements in the tens of billions, and decades-long learning curves in manufacturing. Typically, the FAA requires between five and nine years to complete type certification. These barriers protect incumbents from new entrants — but they also constrain COMAC itself as it attempts to enter markets currently controlled by Boeing and Airbus. The same barriers that make the industry attractive to incumbents are the walls COMAC must scale.
+
+### 3.3 Threat of Substitutes — **Low**
+
+There are no commercially viable substitutes for commercial aircraft on medium-to-long-haul routes. High-speed rail competes on short corridors (under ~800 km) in China, but cannot substitute for the bulk of aviation demand. This is a structural advantage for the entire industry, including COMAC.
+
+### 3.4 Bargaining Power of Buyers (Airlines) — **High**
+
+COMAC's current customer base is almost entirely composed of Chinese state-owned carriers — Air China, China Eastern, and China Southern — who have placed 100-aircraft orders each. Air China released a statement that it was pursuing an order of 100 COMAC C919s, and two days later China Southern placed another 100 C919 orders. Both orders will be delivered between 2024 and 2031. While these orders appear to validate the C919, they reflect state-directed procurement rather than arms-length commercial choice. The airlines' bargaining power is constrained by their own SOE status and political mandate to support COMAC. However, *international* airlines — which COMAC must win to become a global player — face no such constraint and will demand competitive pricing, proven reliability, and EASA/FAA certification before committing. This gives international buyers enormous leverage.
+
+### 3.5 Bargaining Power of Suppliers — **Extreme (the critical force)**
+
+This is the defining structural weakness in COMAC's position. COMAC's C919 relies on Western suppliers for its most critical components, including the CFM International LEAP-1C engines, Honeywell avionics, and Safran flight-control systems. These suppliers have faced their own production challenges. The C919's reliance on Western components has proven to be a double-edged sword — providing access to world-class technology while simultaneously creating strategic vulnerability in an era of escalating geopolitical tensions.
+
+The supplier power dynamic is further complicated by the dual-use nature of the technology. U.S.-controlled technology that needs export licensing for the LEAP-1C engines — jointly built by GE Aerospace and France's Safran — means the C919's engines require U.S. export clearance, making it "inherently" vulnerable to trade policy shifts. This is not merely high supplier bargaining power in the conventional sense; it is a *single point of failure* that can be triggered by political decisions entirely outside COMAC's control.
+
+**Five Forces Summary:** The industry structure is deeply unfavourable for a new entrant. The only forces that work in COMAC's favour are the low threat of substitutes and the captive domestic market. Every other force — extreme rivalry, high buyer power from international airlines, extreme supplier power, and high entry barriers — works against COMAC's global ambitions. The logical implication is that COMAC cannot compete on purely commercial terms; it requires sustained state support and a strategy to systematically reduce its structural vulnerabilities.
+
+---
+
+## 4. Internal Analysis: Resource-Based View and Dynamic Capabilities
+
+The Resource-Based View (RBV) holds that sustained competitive advantage derives from resources that are Valuable, Rare, Inimitable, and Non-substitutable (VRIN) (Barney, 1991). Valuable resources must meet the VRIN criteria: valuable, rare, inimitable, and non-substitutable. Dynamic capabilities enable firms to adapt resources in response to market changes. Applied to COMAC, the RBV reveals a stark asymmetry: COMAC possesses abundant financial resources but lacks the tacit knowledge and operational capabilities that constitute genuine competitive advantage.
+
+### 4.1 Financial Resources — Valuable but Not Rare
+
+COMAC's registered capital was lifted to CNY 94.1 billion (approximately USD 6.2 billion incremental injection) in 2024, with officials publicly indicating "tens of billions of yuan" in further commitments for 2025 and beyond. COMAC itself received a separate 44 billion yuan capital injection from a consortium led by China's State-owned Assets Supervision and Administration Commission. This financial firepower is substantial, but capital alone cannot purchase the organisational learning that Boeing and Airbus have accumulated over 60–80 years of continuous production.
+
+### 4.2 Manufacturing Capabilities — Developing but Immature
+
+COMAC's manufacturing capabilities are improving but remain far below the efficiency frontier. The company delivered only 15 C919 jets in 2025 against a revised target of 28, having initially targeted 75 deliveries. Boeing and Airbus each produce approximately 40–50 aircraft of their comparable narrow-body models *per month*. The productivity gap is not merely a matter of scale; it reflects deep differences in process knowledge, supply-chain integration, and workforce skills — all of which are tacit, accumulated over time, and difficult to acquire through financial investment alone.
+
+### 4.3 Technology and Intellectual Capital — The Critical Gap
+
+The dependence on foreign suppliers goes beyond the individual components they sell to COMAC. Since they have decades of experience supplying parts to other commercial aircraft, they have an immense amount of knowledge about the process of integrating the various components together. Guidance from international suppliers has been critical in the C919's development. This is the RBV insight at its sharpest: COMAC does not merely lack components — it lacks the *systems integration knowledge* that makes those components work together. This knowledge is precisely what is inimitable and non-substitutable in the VRIN framework.
+
+China is making significant progress in avionics innovation, but it still lags in some areas. Western carriers have been slow to adopt COMAC aircraft, citing concerns about certification, reliability, and long-term maintenance. The CSIS assessment is more blunt: COMAC is far behind, and it is not catching up. The gap is growing, as Western aerospace firms are already focused on developing the technologies of tomorrow.
+
+### 4.4 Dynamic Capabilities — Emerging Through Indigenisation
+
+Dynamic capabilities refer to an organisation's ability to sense, seize, and reconfigure resources in response to environmental change (Teece, Pisano & Shuen, 1997). COMAC is developing dynamic capabilities in one critical area: the indigenisation of key technologies. Launched under the "Made in China 2025" framework in 2015, Chinese state planners set explicit targets for 70% domestic content in core aviation components by 2025, positioning high-bypass turbofans like the CJ-1000A as pivotal to reducing import vulnerabilities. The state-backed Aero Engine Corporation of China (AECC) has made notable progress with the CJ-1000A, a domestically developed engine designed to replace the LEAP-1C. The CJ-1000A recently reached a significant milestone by completing flight testing.
+
+However, the pace of this capability-building is slower than the geopolitical clock. The CJ-1000A relies on technology closer to the CFM International CFM56 than the LEAP family — meaning China's domestic engine is one generation behind the current state of the art. This is a dynamic capability gap with strategic consequences: COMAC is building the capability to be competitive in 2015-era technology, while its rivals are already designing next-generation propulsion systems.
+
+**RBV Summary:** COMAC's resources do not currently meet the VRIN criteria for competitive advantage in the global market. Its financial resources are valuable but not rare; its manufacturing capabilities are developing but not yet inimitable; its technology is largely licensed or imported rather than proprietary. The path to competitive advantage runs through accelerated capability-building — particularly in propulsion, systems integration, and airworthiness certification — which requires time that the geopolitical environment may not provide.
+
+---
+
+## 5. Governance Analysis: The Principal–Agent Problem in a Multi-Principal SOE
+
+A crucial dimension of COMAC's strategic situation is its governance structure. As a state-owned enterprise, COMAC operates in a multi-principal environment that creates distinctive incentive distortions absent from private-sector firms.
+
+### 5.1 The Multi-Principal Problem
+
+The varying self-interests in the multi-principal model of SOEs refer to the challenges of aligning the self-interests of the owners of capital (i.e., shareholders) with those of the agents employed on behalf of the principals. In COMAC's case, the principals include: the State-owned Assets Supervision and Administration Commission (SASAC), the State Council, the Communist Party's Central Committee (which sets national industrial policy), and nominally, the minority shareholders who participated in capital injections. Each principal has different objectives: SASAC seeks financial returns and asset preservation; the State Council wants industrial policy goals met; the Party prioritises strategic autonomy and geopolitical leverage; minority shareholders want commercial performance.
+
+Accountability for most SOEs' performance is hindered by the chain of proxy — the board, management, firm ownership, ministries, and the government hierarchical dominance — which poses challenges for corporate governance implementation. The complexity of SOEs' structure is the common frontier for accountability and competent decision-making.
+
+### 5.2 Consequences for Strategic Decision-Making
+
+This multi-principal structure has concrete strategic consequences for COMAC. First, it explains why COMAC has pursued over-ambitious production targets: political principals reward headline announcements over operational realism. The trajectory from a 75-unit target to a 28-unit revised target to 15 actual deliveries in 2025 reflects a pattern where targets are set to satisfy political principals rather than operational capacity. Second, it explains the tension between commercialisation and indigenisation: commercial logic suggests continuing to use CFM LEAP-1C engines (which work) while political logic demands accelerating the CJ-1000A (which is not yet ready). China missed its "Made in China 2025" goals in markets dominated by a small number of strong global incumbents and when Chinese firms struggled to overcome barriers to entry, including extensive upfront investment and specialised knowledge.
+
+Third, the SOE governance structure creates what the literature calls "soft budget constraints" (Kornai, 1986): because COMAC knows the state will always provide capital injections, it faces weaker pressure to achieve commercial efficiency than a private-sector competitor would. For investors, the C919's struggles underscore the risks of overreliance on foreign technology in an era of escalating geopolitical tensions. A private firm facing these risks would face existential pressure to resolve them; COMAC faces political pressure, which is a different and less precise incentive.
+
+**Governance Summary:** COMAC's SOE structure provides essential advantages (unlimited state capital, captive domestic market) but creates systematic distortions (over-ambitious targets, conflicting principals, soft budget constraints) that impede the commercial discipline needed to become a world-class manufacturer. Resolving COMAC's strategic situation requires not just operational fixes but governance reforms that align incentives more closely with commercial performance.
+
+---
+
+## 6. Growth Strategy Analysis: Ansoff Matrix
+
+The Ansoff Matrix (Ansoff, 1957) maps growth strategies along two dimensions: markets (existing vs. new) and products (existing vs. new). Applied to COMAC, it provides a structured framework for evaluating strategic options.
+
+### 6.1 Market Penetration (Existing Product, Existing Market)
+
+COMAC's current strategy is predominantly market penetration: selling more C919s to Chinese carriers. China Eastern ordered an additional 100 C919 aircraft in September 2023 after its initial order of five. By the end of 2024, China Eastern's C919 fleet was expected to have 10 aircraft. Air China and China Southern have each placed 100 C919 orders, representing about 10% of all mainline commercial aircraft in China. This strategy is low-risk (captive buyers, state-directed procurement) but insufficient for COMAC's stated ambition of becoming a global aerospace power.
+
+### 6.2 Market Development (Existing Product, New Markets)
+
+Market development — selling the C919 internationally — is COMAC's medium-term aspiration. Cirium projects fewer than 250 C919s sold outside China, primarily to Belt and Road Initiative (BRI) nations. As part of the BRI initiative, Laos and Vietnam began leasing C909 regional jets from COMAC — a milestone in Beijing's effort to break the global duopoly of plane-makers. The BRI pathway is the most credible near-term international market development route, as BRI partner governments have political incentives to support Chinese aviation exports. However, this route is fundamentally constrained by the absence of EASA/FAA certification: without it, COMAC cannot access the commercially significant markets of Europe, North America, and most of Asia-Pacific.
+
+### 6.3 Product Development (New Product, Existing Market)
+
+COMAC is pursuing product development through the C929 widebody programme. As of late 2024 and into 2025, Russia's UAC has withdrawn from the CRAIC joint venture, and the aircraft is once again referred to as the C929 within China, indicating a reset of the development strategy. COMAC revealed in November 2024 that the C929's launch customer will be Air China. The C929 represents a high-risk product development bet: widebody aircraft are significantly more complex than narrow-bodies, COMAC has not yet mastered narrow-body production at scale, and the collapse of the Russian partnership removes a key engineering partner.
+
+### 6.4 Diversification (New Product, New Market)
+
+This quadrant — the highest-risk Ansoff option — is not currently relevant to COMAC's commercial aircraft strategy, though it is worth noting that COMAC's parent ecosystem (AVIC, AECC, CETC) spans military aviation, representing a form of technological diversification that feeds back into COMAC's capabilities.
+
+**Ansoff Summary:** COMAC's growth strategy is spread across three quadrants simultaneously (penetration, market development, product development), which risks diluting resources. The strategic logic of focusing first on domestic market penetration, then systematically building the conditions for market development (EASA certification, supply-chain security), before committing fully to product development (C929) is compelling — but currently not being followed. COMAC is attempting to run all three strategies in parallel, a pattern that reflects the multi-principal governance problem: different principals are demanding different growth vectors simultaneously.
+
+---
+
+## 7. Synthesis: The Coherent Strategic Problem
+
+Drawing the four analytical frameworks together, a coherent picture emerges. COMAC's strategic situation is characterised by a **structural mismatch between its political mandate and its operational capabilities**, compounded by a **geopolitical shock that is accelerating the timeline for resolving this mismatch**.
+
+- **Porter's Five Forces** shows that the industry structure is hostile: supplier power is existential, international buyer power is high, and rivalry is intensifying through trade policy weaponisation.
+- **The RBV** shows that COMAC lacks the inimitable, non-substitutable resources (systems integration knowledge, manufacturing process capability, certification expertise) needed for sustainable competitive advantage.
+- **Principal–Agent Theory** shows that the governance structure generating these resource gaps is itself a product of misaligned incentives between political and commercial principals.
+- **The Ansoff Matrix** shows that COMAC's growth strategy is over-dispersed, attempting simultaneous penetration, market development, and product development without the operational foundation to execute any of them reliably.
+
+The causal chain is: *Multi-principal governance → over-ambitious targets and conflicting strategic priorities → inadequate capability-building → supply-chain dependency → geopolitical vulnerability → production underperformance → market exclusion → inability to achieve the scale economies that would reduce unit costs and enable competitive pricing → continued dependence on state subsidy.*
+
+---
+
+## 8. Recommendations and Action Plan
+
+The following recommendations are sequenced by time horizon and grounded in the analytical frameworks above.
+
+---
+
+### Recommendation 1: Implement a Focused Domestic Consolidation Strategy (0–3 years)
+
+**What:** Abandon the 200-aircraft annual production target as a political objective and replace it with a commercially credible ramp-up trajectory tied to verifiable operational milestones. Set a realistic target of 30–50 deliveries per year by 2027, focused entirely on Chinese domestic carriers.
+
+**Why the evidence warrants this:** The production gap between targets and actuals (75 planned vs. 15 delivered in 2025) is not a temporary shortfall — it reflects structural manufacturing immaturity. COMAC faces challenges to spin up production of the C919, especially when compared with its original goals for 2025. Continuing to set targets that cannot be met damages airline confidence and investor credibility. The Ansoff Matrix logic supports concentration on market penetration before market development: master the domestic market first.
+
+**Governance link:** This requires a governance reform in which SASAC performance metrics are reweighted from production volume to delivery reliability, on-time performance, and unit cost reduction — metrics that align political incentives with commercial discipline.
+
+---
+
+### Recommendation 2: Accelerate the CJ-1000A Engine Programme as a National Security Priority (0–5 years)
+
+**What:** Treat the CJ-1000A domestic engine programme as the single most critical strategic investment, with a dedicated programme office reporting directly to the State Council, ring-fenced funding, and international talent acquisition (including diaspora Chinese engineers from Western aerospace firms).
+
+**Why the evidence warrants this:** The May 2025 suspension of U.S. engine exports — specifically targeting the LEAP engine jointly produced by GE and Safran — threatens to stall COMAC's global ambitions. Developing competitive commercial aircraft engines requires years of investment and technological advancement that China hasn't yet achieved. The engine is the single largest cost component (30% of aircraft value) and the single largest geopolitical vulnerability. Without engine independence, every other strategic initiative is hostage to U.S. export control decisions.
+
+**RBV link:** Engine technology meets the VRIN criteria — it is valuable, rare, inimitable, and non-substitutable. Developing a proprietary, certified engine is the most direct path to a genuinely inimitable resource. Chinese state planners view engine independence as essential for sustaining the C919 programme's viability, enabling production scalability without reliance on licensed foreign parts.
+
+---
+
+### Recommendation 3: Pursue EASA Certification as a Structured Multi-Year Programme (2–7 years)
+
+**What:** Establish a dedicated EASA certification programme office with European aviation regulatory experts (potentially seconded from EASA partner agencies), a fixed timeline of 5 years, and a commitment to meeting all EASA design standards — including post-2019 revisions — without seeking political shortcuts.
+
+**Why the evidence warrants this:** EASA is "starting anew" with some aspects of the C919's design, as the aircraft's design has undergone iterative changes since 2019, with EASA only beginning to engage seriously with post-pandemic revisions in 2024. This means the certification clock has effectively been reset. The 3–6 year timeline EASA has indicated is not a political obstacle — it is a technical reality. Attempting to accelerate it through diplomatic pressure will backfire; working transparently within the process is the only credible path.
+
+**Five Forces link:** EASA certification directly addresses the buyer power problem: international airlines cannot purchase the C919 without it. Obtaining EASA certification would enable the C919 to be flown in most international markets. Without this, COMAC's market development strategy is structurally blocked regardless of how many BRI nations express interest.
+
+---
+
+### Recommendation 4: Restructure the Supply Chain Through a Tiered Indigenisation Strategy (3–10 years)
+
+**What:** Rather than attempting to indigenise all components simultaneously (the current "Made in China 2025" approach), implement a tiered strategy: (Tier 1) Immediately indigenise components where Chinese alternatives already meet airworthiness standards; (Tier 2) Develop domestic alternatives for mid-criticality components over 3–5 years; (Tier 3) Maintain Western suppliers for the most technically complex components (avionics, engine controls) until domestic alternatives are certified.
+
+**Why the evidence warrants this:** China missed its "Made in China 2025" goals in markets dominated by a small number of strong global incumbents and when Chinese firms struggled to overcome barriers to entry, including extensive upfront investment and specialised knowledge. The "70% domestic content by 2025" target was unrealistic precisely because it attempted to indigenise across all tiers simultaneously. A tiered approach prioritises the highest-risk dependencies (engines, avionics) while maintaining supply continuity for less politically exposed components.
+
+**RBV link:** This strategy builds dynamic capabilities incrementally — each tier of indigenisation deepens COMAC's systems integration knowledge, creating the tacit learning that is ultimately inimitable. Recent geopolitical tensions and export restrictions have motivated COMAC to reduce reliance on Western suppliers for critical avionics components, increasingly partnering with Chinese firms such as AVIC and CETC to develop indigenous systems.
+
+---
+
+### Recommendation 5: Reorient International Market Development Towards BRI Nations with a Structured Leasing Model (3–8 years)
+
+**What:** Rather than attempting to compete directly with Boeing and Airbus in commercially competitive markets (which requires EASA/FAA certification), COMAC should develop a structured leasing model for BRI partner nations — offering C909 and C919 aircraft on concessional lease terms, bundled with Chinese maintenance, repair, and overhaul (MRO) services and pilot training.
+
+**Why the evidence warrants this:** Cirium projects fewer than 250 C919s sold outside China, primarily to Belt and Road Initiative nations. Laos and Vietnam began leasing C909 regional jets from COMAC as part of the BRI initiative — a milestone in Beijing's effort to break the global duopoly. The leasing model is strategically superior to outright sales for three reasons: it reduces the financial risk for BRI airlines with limited capital; it gives COMAC operational data from diverse environments that feeds back into airworthiness improvement; and it builds an MRO ecosystem outside China that is a prerequisite for international commercial sales.
+
+**Ansoff link:** This is a disciplined market development strategy — using an existing product in new markets — that does not require EASA/FAA certification (BRI nations largely have bilateral airworthiness agreements with CAAC) and builds the operational track record needed to eventually obtain Western certification.
+
+---
+
+### Recommendation 6: Reform the C929 Programme Governance (Immediate)
+
+**What:** Following Russia's withdrawal from the CRAIC joint venture, COMAC should conduct a root-and-branch review of the C929 programme, delay the formal programme launch by 3–5 years, and focus C929 development resources on solving the narrow-body challenges first.
+
+**Why the evidence warrants this:** Russia's UAC has withdrawn from the CRAIC joint venture, and the aircraft is once again referred to as the C929, indicating a reset of the development strategy. The Ansoff Matrix principle is clear: product development (C929) should follow, not precede, mastery of the existing product (C919). COMAC is far behind in commercial aviation, and the gap is growing as Western aerospace firms are already focused on developing the technologies of tomorrow. Committing major resources to a widebody programme before the narrow-body is commercially viable is a governance failure driven by political principals seeking prestige projects rather than commercial discipline.
+
+---
+
+## 9. Conclusion
+
+COMAC's strategic situation is not primarily a technology problem, a funding problem, or even a geopolitical problem — though it is all three. At its core, it is a *governance and sequencing* problem: a multi-principal SOE structure that generates misaligned incentives, leading to over-ambitious targets, dispersed strategic priorities, and a systematic underinvestment in the tacit capabilities that constitute genuine competitive advantage.
+
+The analytical frameworks converge on a consistent prescription: **concentrate, sequence, and build from the inside out.** Porter's Five Forces demands that COMAC address its existential supplier vulnerability before expanding internationally. The RBV demands that COMAC build inimitable capabilities (engine technology, systems integration knowledge) before competing on price. Principal–Agent Theory demands governance reforms that align political and commercial incentives. The Ansoff Matrix demands that market penetration precede market development, and that product development wait until the existing product is operationally mature.
+
+COMAC is stepping up its aircraft deliveries in the coming years, with a rate of 145 jets per year forecast by 2030, and by then it will be a contender — versus Airbus and Boeing — in its home narrowbody market. That domestic contention is achievable. Global contention — the displacement of Boeing and Airbus in international markets — requires a decade of disciplined, sequenced capability-building that only coherent strategy and reformed governance can deliver. The recommendations above provide that sequence. Whether COMAC's political principals have the patience to follow it is the central strategic uncertainty.
+
+---
+
+## References
+
+- Ansoff, H.I. (1957) 'Strategies for Diversification', *Harvard Business Review*, 35(5), pp. 113–124.
+- Barney, J. (1991) 'Firm Resources and Sustained Competitive Advantage', *Journal of Management*, 17(1), pp. 99–120.
+- Kornai, J. (1986) 'The Soft Budget Constraint', *Kyklos*, 39(1), pp. 3–30.
+- Porter, M.E. (1979) 'How Competitive Forces Shape Strategy', *Harvard Business Review*, 57(2), pp. 137–145.
+- Porter, M.E. (1980) *Competitive Strategy: Techniques for Analyzing Industries and Competitors*. New York: Free Press.
+- Teece, D.J., Pisano, G. and Shuen, A. (1997) 'Dynamic Capabilities and Strategic Management', *Strategic Management Journal*, 18(7), pp. 509–533.
+
+*All empirical claims in this case study are attributed to source-supported evidence as cited inline. The analytical inferences connect each claim to the relevant framework and state explicitly why the evidence warrants the conclusion drawn.*

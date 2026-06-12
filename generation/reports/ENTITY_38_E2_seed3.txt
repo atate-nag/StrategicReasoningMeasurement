@@ -1,0 +1,209 @@
+Now I have comprehensive data. Let me write the full case study.Now I have all the data I need. Let me write the comprehensive case study.Now I have all the information needed. Let me compose the full case study.
+
+---
+
+# Tesla at the Crossroads: A Strategic Case Study
+
+## From EV Pioneer to Contested Leader — Diagnosing the Strategic Situation and Charting a Path Forward
+
+---
+
+## 1. Introduction and Case Framing
+
+Tesla Inc. was, for much of the 2010s, the textbook example of a disruptive innovator that redefined an industry. It built electric vehicles when legacy automakers dismissed them, constructed a global charging network when none existed, and cultivated a cult-like brand loyalty that made marketing budgets irrelevant. Yet by 2025, the company faces a convergence of pressures that together constitute a genuine strategic inflection point: declining sales volumes, collapsing margins, a brand under reputational siege, and a newly crowned rival in BYD. The central strategic question this case addresses is: **How should Tesla reposition itself to defend its competitive advantage and restore profitable growth, given simultaneous threats to its brand, its market share, and its financial performance?**
+
+This analysis proceeds in four stages: (1) situational diagnosis using financial data; (2) industry-level analysis via Porter's Five Forces; (3) firm-level resource audit via the Resource-Based View (RBV) and VRIO framework; (4) strategic options evaluated through the Ansoff Matrix and Porter's Generic Strategies. The analysis concludes with a prioritised set of strategic recommendations.
+
+---
+
+## 2. Situational Diagnosis: The Strategic Problem
+
+### 2.1 Financial Deterioration
+
+The starting point for any strategic analysis must be the empirical situation. Tesla's revenue growth was a modest 1% in 2024, reaching $97.6 billion, while net income saw a substantial 53% decrease to $7 billion. This is not a marginal fluctuation — a more than halving of net income while revenues stagnate signals a structural problem with the business model. This was largely attributed to price cuts and incentives aimed at stimulating EV demand, which impacted automotive gross profit margins. Operating profit margins also fell from 9.2% in 2023 to 7.2% in 2024.
+
+The deterioration continued into 2025. Net income for Q1 2025 decreased by 71% year-over-year, a direct consequence of lower revenues and increased operating expenses related to expansion efforts. The quarterly financial data confirms this: operating income decreased 66% year-over-year to $0.4 billion in Q1 2025, resulting in a 2.1% operating margin. The significance of this figure is that Tesla's core automotive business is barely profitable on an operating basis — a dramatic reversal for a company that once commanded double-digit operating margins.
+
+**Why this matters analytically:** The margin compression is not merely cyclical. It reflects a structural dynamic in which Tesla has been forced to compete on price — a terrain on which its differentiation strategy was never designed to operate. Each price cut to stimulate volume erodes the premium positioning that justified Tesla's valuation. This is the classic "stuck in the middle" trap that Porter (1980) warned against: a firm that abandons differentiation to chase volume ends up with neither a cost advantage nor a premium price.
+
+### 2.2 Volume Decline and Loss of Market Leadership
+
+The financial story is reinforced by volume data. Tesla delivered 1.63 million vehicles globally in 2025, a 9% fall from 1.79 million in 2024. The decline marks the first time Tesla has posted two straight years of lower annual sales. More symbolically damaging, Tesla has lost its position as the world's largest electric-vehicle maker after global sales declined for a second consecutive year, allowing Chinese automaker BYD to move into the top spot. By contrast, BYD reported sales of more than 2.2 million battery-electric vehicles during the year, driven primarily by strong demand in China and steady expansion into Europe and other international markets.
+
+The loss of the global EV sales crown is not merely reputational. In network-effect businesses — and Tesla's value proposition (Supercharger network, OTA updates, FSD data collection) depends on fleet scale — a smaller fleet is a weaker competitive position. The competitive moat narrows as volume falls.
+
+---
+
+## 3. Industry Analysis: Porter's Five Forces
+
+Porter's Five Forces framework (1979) allows us to assess the structural attractiveness of the industry Tesla competes in and to identify where competitive pressure is most acute.
+
+### Force 1: Competitive Rivalry — HIGH and Intensifying
+
+Tesla operates in an industry with high competitive rivalry. The EV market has growth potential but will attract increasing competition from new entrants and substitutes. The rivalry is multi-dimensional. Large competitors such as Volkswagen and BMW are launching new EV models, and Chinese manufacturers present significant competitive pressure: BYD Company Limited sold 3.1 million NEVs in 2023.
+
+The price dimension of this rivalry is particularly damaging for Tesla. A standard Tesla Model 3 starts at roughly €41,000, while comparable Chinese models such as the BYD Dolphin begin at around €35,500. The Dolphin Surf is listed in many European countries from about €22,990. This price gap — in some cases nearly 50% — is not something Tesla can close through incremental cost reduction without fundamentally redesigning its cost structure. The implication is that competing on price against BYD is strategically self-defeating; Tesla must compete on dimensions other than price.
+
+### Force 2: Threat of New Entrants — MODERATE (but declining as barrier)
+
+The automotive industry, especially electric vehicle manufacturing, requires immense capital. Establishing a new EV production facility can easily cost several billion dollars, a sum many startups simply cannot raise. These capital requirements constitute a genuine barrier to entry. Furthermore, Tesla's established Supercharger network, boasting over 50,000 stations globally as of early 2024, presents a substantial competitive advantage. Replicating this extensive charging infrastructure requires immense capital, making it a formidable obstacle for any new player.
+
+However, the threat from Chinese manufacturers — who benefit from state support, integrated battery supply chains, and massive domestic markets — effectively lowers the *effective* barrier for well-capitalised state-backed entrants. The Five Forces framework, applied literally, would rate new entrant threat as moderate; but the *source* of competitive pressure has shifted from traditional start-ups to sovereign-backed industrial champions, which is qualitatively different.
+
+### Force 3: Bargaining Power of Suppliers — MODERATE
+
+As of 2024, Tesla relies on a concentrated global battery supply chain. Global lithium-ion battery production is dominated by three manufacturers. This concentration gives battery suppliers significant leverage. Tesla's vertical integration strategy — building its own battery cells (4680 cells) and operating Gigafactories — is a deliberate response to this supplier power, but it is not yet fully realised. Until Tesla achieves true battery self-sufficiency, supplier power remains a vulnerability.
+
+### Force 4: Bargaining Power of Buyers — INCREASING
+
+Tesla customer retention rate in 2023 was 62.4%, compared to an industry average of 45.2%. This above-average retention indicates strong brand loyalty — a counterweight to buyer power. However, the widening price gap with Chinese competitors and the brand damage from Musk's political activities are eroding this loyalty, particularly in Europe. As product differentiation narrows (more manufacturers offer comparable range and technology), buyers gain power to switch. The European data — discussed below — makes this concrete.
+
+### Force 5: Threat of Substitutes — MODERATE
+
+The continued growth of platforms like Uber and Lyft in 2024 offers a convenient, pay-as-you-go alternative to car ownership. Additionally, micro-mobility options such as electric bikes and scooters are gaining traction, with the global e-bike market valued at over $25 billion in 2023, directly competing for urban commuters. More structurally, the global sustainable transportation market is projected to reach $7.5 trillion by 2030, with electric vehicles representing 45% of total market share — suggesting that the EV category itself will grow, but that Tesla's share within it is contested.
+
+**Five Forces Summary:** The overall industry structure is moderately attractive — high capital barriers and strong network effects provide some protection — but the *direction of travel* is unfavourable for Tesla specifically. Competitive rivalry is intensifying, buyer power is growing, and the most dangerous new entrants are state-backed Chinese manufacturers who do not conform to the conventional "start-up" model of new entrant. Tesla's structural position is weakening.
+
+---
+
+## 4. Resource-Based View and VRIO Analysis
+
+While Five Forces explains industry-level pressures, the Resource-Based View (Barney, 1991; Wernerfelt, 1984) directs attention to firm-specific resources and capabilities that can sustain competitive advantage. A resource confers sustainable advantage only if it is Valuable, Rare, Inimitable, and supported by Organisation (VRIO). We evaluate Tesla's key resources against this framework.
+
+### 4.1 FSD Data and AI Capability — VRIO: Sustainable Advantage
+
+Tesla's most strategically significant resource is its accumulation of real-world driving data. In Q1 2024, over 400,000 Tesla vehicles were equipped with FSD, generating substantial recurring revenue through software subscriptions. With 1.3 billion miles of real-world driving data, Tesla trails only Waymo in autonomous driving experience.
+
+This resource satisfies all four VRIO criteria. It is **Valuable**: autonomous driving capability is the basis of Tesla's claimed future revenue model (robotaxi fleets, FSD subscriptions). It is **Rare**: no other automaker has a comparable real-world fleet-scale data collection operation. It is **Inimitable**: data compounds — the more miles driven, the better the model, which attracts more buyers, who generate more data. This is a classic data flywheel that cannot be replicated by a competitor starting from scratch. It is **Organisationally embedded**: Tesla believes scaled autonomy is only possible with data from millions of vehicles and an immense AI training cluster — and they have, and continue to expand, both. Furthermore, FSD V12, trained on data from a fleet of over a million vehicles, uses AI to influence vehicle controls instead of hard-coding every driving behaviour — marking a new era in the path to full autonomy.
+
+**Analytical inference:** The FSD/AI capability is Tesla's most defensible strategic asset. The challenge is that it is a *future* asset — it generates competitive advantage when fully commercialised, but currently it is a cost centre (AI infrastructure capex was $1.0B in Q1 2025 alone). The strategic imperative is to survive the financial pressure long enough to monetise this asset.
+
+### 4.2 Supercharger Network — VRIO: Temporary Advantage (Eroding)
+
+Tesla's established Supercharger network, boasting over 50,000 stations globally as of early 2024, presents a substantial competitive advantage. This network satisfies the Valuable and Rare criteria clearly. However, its inimitability is weakening: Tesla's decision to open the network to other manufacturers (Ford, GM, Rivian) increases revenue but reduces exclusivity. As the broader charging infrastructure matures — driven by government investment in the EU and US — the Supercharger network's differentiating power diminishes. It remains an advantage today but is not a *sustainable* one in the VRIO sense.
+
+### 4.3 Gigafactory Manufacturing Network — VRIO: Partial Advantage
+
+Tesla's vertically integrated manufacturing — including decisions to build Gigafactory Nevada, the largest lithium-ion battery factory in the world, so as to scale most effectively — provides genuine scale economies. The company achieved COGS per vehicle of approximately $35,100 by late 2024, which is competitive. However, BYD's own vertically integrated battery-to-vehicle production (it manufactures its own lithium iron phosphate cells) means this advantage is not unique. The Gigafactory network is Valuable and moderately Rare, but not fully Inimitable.
+
+### 4.4 Energy Storage Business — VRIO: Emerging Strategic Asset
+
+This is the most underappreciated resource in Tesla's portfolio. The energy generation and storage segment demonstrated robust growth, with revenues increasing by 67% to $10 billion in 2024. At the product level, when paired with solar PV, Megapack is cost competitive with traditional fossil fuel generation assets and can be deployed four times faster than traditional fossil fuel plants of the same capacity. Crucially, trailing twelve-month energy storage deployments achieved their 12th consecutive quarterly record — demonstrating consistent execution in a segment with genuine structural tailwinds (grid decarbonisation, AI data centre power demand).
+
+The strong performance of the energy segment highlights Tesla's strategy for diversifying revenue streams beyond automotive sales, a key aspect of its long-term growth strategy. This is strategically significant: the energy business has higher and more stable margins than the automotive business under current pricing pressure, and it is less exposed to the brand damage inflicted by Musk's political activities.
+
+### 4.5 The Elon Musk Factor — VRIO: Double-Edged Resource
+
+The RBV framework typically treats leadership as a resource. Musk is simultaneously Tesla's greatest historical asset and its most acute current liability. On one side, Tesla's success is the direct result of the tremendous vision and outstanding performance of Elon Musk — in the past six years alone, he has helped create more than $735 billion in value for stockholders. Tesla's own proxy statement acknowledges that retaining Mr. Musk is not merely wise, it is essential to unlocking the full potential of Tesla's future.
+
+On the other side, the brand damage from Musk's political activities is empirically measurable and severe. Tesla brand equity has been declining since 2024 owing largely to CEO Elon Musk's incendiary political rhetoric and government work. Musk endorsed Germany's extreme anti-immigrant party, AfD, and serves as a key advisor to U.S. President Donald Trump, working to slash federal agencies. The market consequence is stark: European sales of Tesla vehicles plunged in April 2025, with Tesla selling 7,261 cars in Europe, down 49% year on year — even as overall battery electric car sales rose 34.1% annually in April.
+
+The geographic granularity further illustrates the damage: Tesla's market share in Europe plummeted from 18.2% in 2023 to a mere 6% in January 2025. In Germany, registrations fell 76% year-over-year in February 2025, despite Tesla's Berlin factory producing the Model Y. In France, sales dropped 63% in January 2025.
+
+**Analytical inference:** This is a textbook case of a resource that is simultaneously Valuable (vision, execution, brand magnetism) and a source of strategic risk (brand liability, key-man dependency, governance concerns). The VRIO framework's "Organisation" dimension is relevant here: Tesla's classified Board of Directors has failed to provide the independent oversight and accountability that shareholders should expect from a public company of its size and significance. A resource whose deployment is inadequately governed is not fully organisationally embedded in a healthy sense — it is a governance failure.
+
+---
+
+## 5. Strategic Options: Ansoff Matrix
+
+Having diagnosed the situation (declining volumes, margin compression, brand damage, but strong underlying technology assets), we now evaluate strategic options using the Ansoff Matrix (Ansoff, 1957), which maps growth strategies against two dimensions: markets (existing vs. new) and products (existing vs. new).
+
+### Quadrant 1: Market Penetration (Existing Products, Existing Markets)
+
+Tesla's instinctive response to declining volumes has been price cuts — a market penetration strategy. This is evidenced by the multiple rounds of price reductions since 2023 and the launch of more affordable trim levels. Plans for new vehicles, including more affordable models, remain on track for start of production in the first half of 2025. These vehicles will utilise aspects of the next generation platform as well as aspects of current platforms and will be produced on the same manufacturing lines as the current vehicle lineup.
+
+The strategic logic is sound in principle — volume growth reduces per-unit costs and expands the data-generating fleet. However, as the Five Forces analysis established, competing on price against BYD is a losing game: BYD's cost structure, battery integration, and Chinese domestic market scale give it a structural cost advantage that Tesla cannot overcome through incremental efficiency gains. Market penetration via price cuts is a **necessary but insufficient** strategy — it buys time but does not resolve the structural competitive challenge.
+
+### Quadrant 2: Market Development (Existing Products, New Markets)
+
+Tesla's geographic expansion — Gigafactory Berlin for Europe, Gigafactory Shanghai for Asia — is a market development strategy. However, the European market development is currently being undermined by brand damage, not product inadequacy. The strategic implication is that market development in Europe requires brand rehabilitation *before* product investment will yield returns. This is a sequencing problem: the product is adequate (Model Y was Europe's best-selling car in 2023), but the brand has become a liability.
+
+In markets where Musk's political activities have less salience — Southeast Asia, India, the Middle East — market development remains viable and should be prioritised.
+
+### Quadrant 3: Product Development (New Products, Existing Markets)
+
+This is Tesla's most promising near-term strategic option. The energy storage business represents product development into existing (sustainability-conscious) customer segments. Energy storage deployments continue to grow as Tesla expands capacity for both Megapack and Powerwall to meet global demand. With a highly localised supply chain, 20 GWh of current annual capacity and the ability to double to 40 GWh, Megafactory Shanghai will be an important asset for meeting global energy storage demand.
+
+The robotaxi/FSD commercialisation is also a product development play — deploying existing AI capability into a new revenue model. Tesla's own strategic framing reflects this: the future is not only electric, but also autonomous — and Tesla believes scaled autonomy is only possible with data from millions of vehicles and an immense AI training cluster.
+
+### Quadrant 4: Diversification (New Products, New Markets)
+
+The Optimus humanoid robot represents Tesla's most speculative diversification bet. While potentially transformative, it is high-risk and long-dated. The Ansoff framework treats diversification as the highest-risk quadrant, and the current financial position — with operating margins at 2.1% — does not provide the balance sheet resilience to absorb large diversification failures. Optimus should be maintained as an R&D investment but not treated as a near-term strategic priority.
+
+---
+
+## 6. Synthesis: The Core Strategic Tension
+
+The analytical chain constructed above reveals a fundamental tension at the heart of Tesla's strategy:
+
+**Tesla's most valuable long-term assets (FSD/AI data, energy storage, Optimus) require sustained investment and time to monetise. But the short-term financial deterioration — driven by price wars, brand damage, and margin compression — is eroding the cash generation capacity needed to fund that long-term investment.**
+
+This is what strategists call an *intertemporal dilemma*: the actions needed to stabilise the short term (price cuts, cost reduction) conflict with the investments needed to win the long term (AI infrastructure, energy capacity, new product development). The company spent $1.0 billion on AI infrastructure capex in Q1 2025 alone — at a time when operating income was only $0.4 billion. This is not sustainable without either revenue recovery or a deliberate decision to draw down cash reserves.
+
+The brand damage from Musk's political activities compounds this dilemma because it is destroying revenue in Tesla's most profitable markets (Europe, premium segments) while the company simultaneously needs those revenues to fund its long-term technology bets.
+
+---
+
+## 7. Strategic Recommendations
+
+The following recommendations are ordered by urgency and logical dependency — each builds on the preceding one.
+
+### Recommendation 1: Structurally Separate the Brand from the CEO (Governance Reform) — *Immediate Priority*
+
+**The problem:** The empirical evidence is unambiguous. European sales of Tesla vehicles plunged 49% year on year in April 2025, even as overall battery electric car sales rose 34.1%. Tesla is losing market share in a growing market — which means the cause is firm-specific, not market-wide. The most parsimonious explanation, supported by the geographic and temporal correlation with Musk's political activities, is brand damage.
+
+**The recommendation:** Tesla's Board should formally separate the roles of brand ambassador and operational CEO. Musk retains his title and strategic vision role, but a Chief Brand Officer or President of Commercial Operations is appointed to manage customer-facing communications, marketing, and European market relations independently. This is analogous to the "founder-mode with professional management" structures used by companies like Google (Eric Schmidt era) and Apple (Tim Cook's operational role alongside Jobs's product vision).
+
+**The rationale:** This does not require removing Musk — which the Board has explicitly stated would be "imprudent, even reckless." Musk's leadership is uniquely tied to Tesla's brand, strategy, and investor confidence. His departure would introduce significant uncertainty and could materially impact Tesla's valuation and strategic execution. But the current arrangement — where the CEO's personal political brand is indistinguishable from the corporate brand — is empirically destroying shareholder value in key markets. Structural separation is the minimum viable governance response.
+
+### Recommendation 2: Accelerate Energy Storage as the Primary Growth Engine — *Near-Term Strategic Pivot*
+
+**The problem:** Automotive margins are under structural pressure from Chinese competition. Energy storage margins are improving and the market has structural tailwinds (grid decarbonisation, AI data centre energy demand).
+
+**The recommendation:** Tesla should explicitly reframe its investor narrative and capital allocation to position Energy Generation and Storage as a co-equal business segment alongside automotive, not a subsidiary one. Concretely, this means: (a) accelerating Megafactory Shanghai's ramp to full 40 GWh capacity; (b) pursuing utility-scale Megapack contracts in markets where Tesla's automotive brand damage is most severe (Europe) — since the energy business is less exposed to Musk's personal brand; (c) targeting the AI data centre power market, which is experiencing explosive demand growth.
+
+**The rationale:** Megapack is cost competitive with traditional fossil fuel generation assets and can be deployed four times faster than traditional fossil fuel plants of the same capacity. This is a genuine competitive advantage in a market where speed of deployment matters enormously. The energy business also provides a revenue stream that is structurally decoupled from the consumer brand — a utility buying Megapacks for grid stabilisation is not making a lifestyle statement in the way a consumer buying a Model 3 is. This makes the energy business *less* vulnerable to the brand damage that is crippling automotive sales.
+
+### Recommendation 3: Defend the FSD/Autonomy Moat Through Fleet Retention, Not Price Cuts — *Medium-Term*
+
+**The problem:** Tesla's most defensible long-term asset is its real-world driving data flywheel. But this flywheel depends on maintaining and growing the active fleet. If volume continues to decline, the data advantage erodes relative to competitors.
+
+**The recommendation:** Rather than using price cuts to stimulate new sales (which destroys margins), Tesla should invest in fleet retention mechanisms: enhanced FSD subscription value, over-the-air software improvements that increase the value of existing vehicles, and loyalty programmes that make switching costly. The goal is to keep existing Tesla owners in Teslas for longer, maintaining the data-generating fleet even if new vehicle sales are under pressure.
+
+**The rationale:** Tesla's customer retention rate in 2023 was 62.4%, compared to an industry average of 45.2%. This above-average retention is a resource worth protecting. Each retained customer is a data-generating node. The FSD data flywheel — trained on data from a fleet of over a million vehicles, using AI to influence vehicle controls instead of hard-coding every driving behaviour — is the foundation of Tesla's long-term value. Protecting the fleet is protecting the moat.
+
+### Recommendation 4: Pursue Geographic Market Development in Non-Politicised Markets — *Medium-Term*
+
+**The problem:** Tesla's European market development strategy is being blocked by brand damage that is politically driven and therefore not addressable through product improvement alone.
+
+**The recommendation:** Redirect market development investment toward geographies where Musk's political activities have less brand salience: India (where Tesla has been preparing market entry), Southeast Asia, the Gulf states, and Latin America. These markets are growing, EV penetration is low (offering first-mover advantage), and the political context is different.
+
+**The rationale:** BYD captured a dominant 32% domestic share in China and benefited directly from consumer trust in domestic brands and a strong charging network in big cities. Tesla cannot replicate BYD's home-market advantage in China, and it is losing its home-market advantage in Europe. The logical response is to develop markets where neither Tesla nor BYD has yet established dominance — where Tesla's technology leadership and Supercharger infrastructure can be deployed as genuine first-mover advantages before Chinese competitors arrive in force.
+
+### Recommendation 5: Resist the "Stuck in the Middle" Trap — Recommit to Differentiation — *Ongoing Strategic Discipline*
+
+**The problem:** The price-cut strategy, while tactically understandable, risks destroying Tesla's differentiation positioning without achieving BYD's cost position — the worst of both worlds.
+
+**The recommendation:** Tesla should recommit to Porter's differentiation strategy. This means: (a) halting further price cuts once the new affordable model line is established; (b) investing in product features that justify premium pricing (FSD capability, energy integration, software ecosystem); (c) communicating a clear value proposition that is not primarily price-based.
+
+**The rationale:** Tesla uses a differentiation strategy to gain a competitive advantage in the electric vehicle market, emphasising innovative technology to appeal to a broad market. This strategy built Tesla's market position and remains its most viable path — because Tesla cannot win a cost war against BYD, whose battery integration and Chinese domestic scale provide structural cost advantages. Industry analysts say success in a maturing EV market is increasingly tied to pricing, product variety, and execution rather than brand cachet alone — but this cuts both ways: it also means that a pure price strategy is insufficient. Tesla must compete on execution and product breadth, not just price.
+
+---
+
+## 8. Conclusion: The Coherent Strategic Logic
+
+The analytical chain constructed in this case study leads to a coherent set of conclusions:
+
+1. **The Five Forces analysis** establishes that Tesla's industry is becoming structurally less attractive — rivalry is intensifying, buyer power is growing, and the most dangerous entrants are state-backed Chinese manufacturers who do not conform to conventional new-entrant models.
+
+2. **The RBV/VRIO analysis** identifies Tesla's FSD data flywheel and energy storage business as its most defensible long-term assets — but also reveals that the Musk "resource" has become a dual-edged liability in key markets, and that governance structures are inadequate to manage this risk.
+
+3. **The Ansoff Matrix** clarifies that market penetration via price cuts is necessary but insufficient; that market development must be geographically redirected; and that product development in energy storage and FSD commercialisation offers the most strategically coherent path to profitable growth.
+
+4. **Porter's Generic Strategies** warns against the "stuck in the middle" trap — Tesla must resist the temptation to compete on price against BYD and recommit to differentiation through technology, software, and ecosystem.
+
+The overarching recommendation is this: **Tesla must protect its long-term technology moat (FSD/AI), diversify its revenue base toward energy storage, repair its brand through governance reform, and redirect geographic investment toward markets where it can compete on differentiation rather than price.** The company has the resources to execute this strategy — $26.9 billion in cash and investments as of Q1 2025 — but the window for action is narrowing as margins compress and brand damage compounds. The strategic situation is serious but not irreversible; the analytical frameworks converge on a clear direction, and the firm's underlying technological assets remain genuinely world-class. The question is whether Tesla's leadership and governance structures can execute the necessary pivots before the financial deterioration becomes self-reinforcing.
+
+---
+
+*References: Ansoff, H.I. (1957). "Strategies for Diversification." Harvard Business Review. Barney, J. (1991). "Firm Resources and Sustained Competitive Advantage." Journal of Management. Porter, M.E. (1979). "How Competitive Forces Shape Strategy." Harvard Business Review. Porter, M.E. (1980). Competitive Strategy. Free Press. Wernerfelt, B. (1984). "A Resource-Based View of the Firm." Strategic Management Journal.*
