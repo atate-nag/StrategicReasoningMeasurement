@@ -1,0 +1,12 @@
+sample,noise_source,n_type,kappa_type,n_cit,kappa_citation,n_qual,kappa_qualifier,coefficient
+Tesla,AI-AI (5 pipeline runs × 10 pairwise aligned κs averaged),114,0.946,114,0.930,114,0.867,Cohen κ
+Tesla,Human-AI (Adrian v5.4 vs pipeline qual-v2; semantic-aligned),111,0.821,111,0.889,111,0.685,Cohen κ
+ROK,AI-AI (5 pipeline runs × 2 source docs × 10 pairs averaged),110,0.849,110,0.959,110,0.854,Cohen κ
+ROK,Human-AI (pipeline-run1 vs each human Adrian/Sotirios/Christian; mean of 3),48,0.498,48,0.482,48,0.206,Cohen κ
+ROK,Human-Human Fleiss (Adrian/Sotirios/Christian; un-reconciled),48,0.434,48,0.310,48,0.150,Fleiss κ
+ROK,Human-Human pairwise A↔S,48,0.458,48,0.347,48,0.160,Cohen κ
+ROK,Human-Human pairwise A↔C,48,0.517,48,0.416,48,0.467,Cohen κ
+ROK,Human-Human pairwise S↔C,50,0.389,50,0.240,50,0.082,Cohen κ
+ROK,Human-AI pipeline↔Adrian,48,0.447,48,0.621,48,0.368,Cohen κ
+ROK,Human-AI pipeline↔Sotirios,50,0.489,50,0.462,50,0.122,Cohen κ
+ROK,Human-AI pipeline↔Christian,50,0.559,50,0.362,50,0.127,Cohen κ

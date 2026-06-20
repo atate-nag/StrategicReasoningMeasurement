@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 480" font-family="Helvetica, Arial, sans-serif" font-size="12">
+<text x="410" y="22" font-size="16" font-weight="bold" text-anchor="middle">Three-way noise (Cohen κ / Fleiss κ vs codebook v5.3)</text>
+<text x="410" y="40" font-size="11" fill="#555" text-anchor="middle">Tesla sample (1 doc, n≈111–114) · ROK sample (50 claim items)</text>
+<line x1="70" y1="410" x2="580" y2="410" stroke="#ddd" stroke-dasharray="2,2"/>
+<text x="62" y="414" text-anchor="end" fill="#333">0.00</text>
+<line x1="70" y1="320" x2="580" y2="320" stroke="#ddd" stroke-dasharray="2,2"/>
+<text x="62" y="324" text-anchor="end" fill="#333">0.25</text>
+<line x1="70" y1="230" x2="580" y2="230" stroke="#ddd" stroke-dasharray="2,2"/>
+<text x="62" y="234" text-anchor="end" fill="#333">0.50</text>
+<line x1="70" y1="140" x2="580" y2="140" stroke="#ddd" stroke-dasharray="2,2"/>
+<text x="62" y="144" text-anchor="end" fill="#333">0.75</text>
+<line x1="70" y1="50" x2="580" y2="50" stroke="#ddd" stroke-dasharray="2,2"/>
+<text x="62" y="54" text-anchor="end" fill="#333">1.00</text>
+<text x="20" y="230" font-size="12" transform="rotate(-90, 20, 230)" text-anchor="middle">κ (vs v5.3 standard)</text>
+<text x="149" y="432" text-anchor="middle" font-weight="bold">type</text>
+<text x="325" y="432" text-anchor="middle" font-weight="bold">citation</text>
+<text x="501" y="432" text-anchor="middle" font-weight="bold">qualifier</text>
+<rect x="70" y="69.44" width="29.6" height="340.56" fill="#1f77b4" opacity="0.9"/>
+<text x="84.8" y="65.44" font-size="9" text-anchor="middle" fill="#333">0.95</text>
+<rect x="101.6" y="114.44" width="29.6" height="295.56" fill="#ff7f0e" opacity="0.9"/>
+<text x="116.39999999999999" y="110.44" font-size="9" text-anchor="middle" fill="#333">0.82</text>
+<rect x="133.2" y="104.36000000000001" width="29.6" height="305.64" fill="#2ca02c" opacity="0.9"/>
+<text x="148" y="100.36000000000001" font-size="9" text-anchor="middle" fill="#333">0.85</text>
+<rect x="164.8" y="230.72" width="29.6" height="179.28" fill="#d62728" opacity="0.9"/>
+<text x="179.60000000000002" y="226.72" font-size="9" text-anchor="middle" fill="#333">0.50</text>
+<rect x="196.4" y="253.76" width="29.6" height="156.24" fill="#9467bd" opacity="0.9"/>
+<text x="211.20000000000002" y="249.76" font-size="9" text-anchor="middle" fill="#333">0.43</text>
+<rect x="246" y="75.19999999999999" width="29.6" height="334.8" fill="#1f77b4" opacity="0.9"/>
+<text x="260.8" y="71.19999999999999" font-size="9" text-anchor="middle" fill="#333">0.93</text>
+<rect x="277.6" y="89.95999999999998" width="29.6" height="320.04" fill="#ff7f0e" opacity="0.9"/>
+<text x="292.40000000000003" y="85.95999999999998" font-size="9" text-anchor="middle" fill="#333">0.89</text>
+<rect x="309.2" y="64.75999999999999" width="29.6" height="345.24" fill="#2ca02c" opacity="0.9"/>
+<text x="324" y="60.75999999999999" font-size="9" text-anchor="middle" fill="#333">0.96</text>
+<rect x="340.8" y="236.48000000000002" width="29.6" height="173.51999999999998" fill="#d62728" opacity="0.9"/>
+<text x="355.6" y="232.48000000000002" font-size="9" text-anchor="middle" fill="#333">0.48</text>
+<rect x="372.4" y="298.4" width="29.6" height="111.60000000000002" fill="#9467bd" opacity="0.9"/>
+<text x="387.2" y="294.4" font-size="9" text-anchor="middle" fill="#333">0.31</text>
+<rect x="422" y="97.88" width="29.6" height="312.12" fill="#1f77b4" opacity="0.9"/>
+<text x="436.8" y="93.88" font-size="9" text-anchor="middle" fill="#333">0.87</text>
+<rect x="453.6" y="163.39999999999998" width="29.6" height="246.60000000000002" fill="#ff7f0e" opacity="0.9"/>
+<text x="468.40000000000003" y="159.39999999999998" font-size="9" text-anchor="middle" fill="#333">0.69</text>
+<rect x="485.2" y="102.56" width="29.6" height="307.44" fill="#2ca02c" opacity="0.9"/>
+<text x="500" y="98.56" font-size="9" text-anchor="middle" fill="#333">0.85</text>
+<rect x="516.8" y="335.84000000000003" width="29.6" height="74.15999999999997" fill="#d62728" opacity="0.9"/>
+<text x="531.5999999999999" y="331.84000000000003" font-size="9" text-anchor="middle" fill="#333">0.21</text>
+<rect x="548.4" y="356" width="29.6" height="54" fill="#9467bd" opacity="0.9"/>
+<text x="563.1999999999999" y="352" font-size="9" text-anchor="middle" fill="#333">0.15</text>
+<line x1="70" y1="410" x2="580" y2="410" stroke="#333"/>
+<line x1="70" y1="50" x2="70" y2="410" stroke="#333"/>
+<text x="600" y="50" font-weight="bold">Noise source</text>
+<rect x="600" y="58" width="14" height="14" fill="#1f77b4"/>
+<text x="620" y="70">Tesla AI–AI</text>
+<rect x="600" y="80" width="14" height="14" fill="#ff7f0e"/>
+<text x="620" y="92">Tesla Human–AI</text>
+<rect x="600" y="102" width="14" height="14" fill="#2ca02c"/>
+<text x="620" y="114">ROK AI–AI</text>
+<rect x="600" y="124" width="14" height="14" fill="#d62728"/>
+<text x="620" y="136">ROK Human–AI</text>
+<rect x="600" y="146" width="14" height="14" fill="#9467bd"/>
+<text x="620" y="158">ROK Human–Human (Fleiss)</text>
+<text x="70" y="470" font-size="10" fill="#666">Source: analysis-outputs/three-way-noise-table.csv. Generated 2026-06-20.</text>
+</svg>

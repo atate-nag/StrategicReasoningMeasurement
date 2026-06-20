@@ -1,0 +1,5 @@
+dimension,n,human_orig_endorse,human_orig_reject,human_orig_amb,human_orig_cannot,human_orig_endorse_rate,ai_orig_endorse,ai_orig_reject,ai_orig_amb,ai_orig_endorse_rate,final_endorse,final_reject,final_amb,final_endorse_rate,divergent,reconciled_rows
+type,32,28,4,0,0,0.875,27,5,0,0.844,28,4,0,0.875,5,5
+citation,30,18,12,0,0,0.600,22,6,2,0.733,19,11,0,0.633,7,7
+qualifier,30,13,17,0,0,0.433,20,7,3,0.667,22,8,0,0.733,15,15
+edge_type,32,23,9,0,0,0.719,22,10,0,0.688,23,8,1,0.719,7,7

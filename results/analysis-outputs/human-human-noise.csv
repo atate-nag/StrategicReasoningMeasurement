@@ -1,0 +1,4 @@
+dimension,n_three_way,unanimous_rate,kappa_AS,n_AS,kappa_AC,n_AC,kappa_SC,n_SC,fleiss_kappa,prevalence
+type,48,0.4583,0.4580,48,0.5172,48,0.3893,50,0.4345,V:0.222;F:0.354;M:0.319;P:0.104
+citation,48,0.7083,0.3469,48,0.4158,48,0.2398,50,0.3101,None:0.826;Int:0.09;Ext:0.083
+qualifier,48,0.6458,0.1600,48,0.4667,48,0.0821,50,0.1500,Q0:0.833;Q1:0.167

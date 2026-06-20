@@ -1,0 +1,6 @@
+series	type	citation	qualifier
+Tesla AI–AI	0.946	0.930	0.867
+Tesla Human–AI	0.821	0.889	0.685
+ROK AI–AI	0.849	0.959	0.854
+ROK Human–AI	0.498	0.482	0.206
+ROK Human–Human (Fleiss)	0.434	0.310	0.150
