@@ -1,0 +1,924 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 888" font-family="Helvetica, Arial, sans-serif" font-size="11">
+<rect width="1300" height="888" fill="#FFFFFF"/>
+<text x="650" y="24" font-size="16" font-weight="bold" text-anchor="middle" fill="#1E2A32">Matched-pair differences across 25 entities — AI E3 (mean of 3 seeds) vs human</text>
+<text x="650" y="42" font-size="11" text-anchor="middle" fill="#6B7280">Each dot = one entity. Filled tick = corpus mean. Right margin: mean ± SD and direction-consistency count.</text>
+<text x="650" y="58" font-size="11" text-anchor="middle" fill="#6B7280">Per-row x-axis is symmetric around zero in that metric's native units; widths within a panel are comparable, across panels are not.</text>
+<rect x="20" y="70" width="1260" height="28" fill="#F3F4F6"/>
+<text x="28" y="88" font-size="12" font-weight="bold" fill="#1E2A32">Volume &amp; architecture</text>
+<text x="212" y="113" text-anchor="end" font-size="11" fill="#1E2A32">n_nodes (claims)</text>
+<line x1="610" y1="101" x2="610" y2="117" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="113" font-size="8" fill="#9CA3AF" text-anchor="start">-135</text>
+<text x="1000" y="113" font-size="8" fill="#9CA3AF" text-anchor="end">+135</text>
+<circle cx="919.1" cy="105.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="881.5" cy="107.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="875.7" cy="109.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="906.6" cy="110.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="925.9" cy="112.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="923.0" cy="105.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="906.6" cy="107.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="818.7" cy="109.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="935.6" cy="110.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="685.4" cy="112.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="871.8" cy="105.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="878.6" cy="107.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="767.5" cy="109.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="790.7" cy="110.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="806.1" cy="112.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="786.8" cy="105.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="964.5" cy="107.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="935.6" cy="109.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="700.8" cy="110.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="880.5" cy="112.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="864.1" cy="105.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="874.7" cy="107.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="829.3" cy="109.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="699.8" cy="110.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="758.8" cy="112.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="847.4971513500124,102 851.4971513500124,109 847.4971513500124,116 843.4971513500124,109" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="113" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +82 ± 27   → 25/25 AI&gt;H</text>
+<text x="212" y="135" text-anchor="end" font-size="11" fill="#1E2A32">n_edges</text>
+<line x1="610" y1="123" x2="610" y2="139" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="135" font-size="8" fill="#9CA3AF" text-anchor="start">-127</text>
+<text x="1000" y="135" font-size="8" fill="#9CA3AF" text-anchor="end">+127</text>
+<circle cx="911.4" cy="127.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="890.0" cy="129.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="807.2" cy="131.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="913.5" cy="132.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="884.8" cy="134.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="948.2" cy="127.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="875.7" cy="129.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="854.2" cy="131.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="885.9" cy="132.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="754.1" cy="134.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="862.4" cy="127.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="868.5" cy="129.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="768.4" cy="131.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="796.0" cy="132.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="802.1" cy="134.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="799.0" cy="127.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="964.5" cy="129.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="954.3" cy="131.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="758.2" cy="132.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="920.6" cy="134.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="819.5" cy="127.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="881.8" cy="129.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="802.1" cy="131.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="777.6" cy="132.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="742.8" cy="134.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="849.7013361278491,124 853.7013361278491,131 849.7013361278491,138 845.7013361278491,131" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="135" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +78 ± 21   → 25/25 AI&gt;H</text>
+<text x="212" y="157" text-anchor="end" font-size="11" fill="#1E2A32">component_count</text>
+<line x1="610" y1="145" x2="610" y2="161" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="157" font-size="8" fill="#9CA3AF" text-anchor="start">-31.2</text>
+<text x="1000" y="157" font-size="8" fill="#9CA3AF" text-anchor="end">+31.2</text>
+<circle cx="856.1" cy="149.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="789.4" cy="151.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="964.5" cy="153.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="893.6" cy="154.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="881.1" cy="156.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="735.1" cy="149.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="789.4" cy="151.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="689.3" cy="153.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="831.1" cy="154.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="543.3" cy="156.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="781.0" cy="149.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="835.2" cy="151.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="726.8" cy="153.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="764.3" cy="154.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="801.9" cy="156.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="714.3" cy="149.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="814.4" cy="151.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="731.0" cy="153.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="534.9" cy="154.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="668.4" cy="156.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="793.5" cy="149.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="705.9" cy="151.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="801.9" cy="153.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="497.4" cy="154.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="705.9" cy="156.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="753.9871657754011,146 757.9871657754011,153 753.9871657754011,160 749.9871657754011,153" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="157" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +11.5 ± 8.7   → 22/25 AI&gt;H</text>
+<text x="212" y="179" text-anchor="end" font-size="11" fill="#1E2A32">orphan_rate</text>
+<line x1="610" y1="167" x2="610" y2="183" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="179" font-size="8" fill="#9CA3AF" text-anchor="start">-0.072</text>
+<text x="1000" y="179" font-size="8" fill="#9CA3AF" text-anchor="end">+0.072</text>
+<circle cx="964.5" cy="171.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="867.5" cy="173.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="949.3" cy="175.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="959.3" cy="176.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="933.7" cy="178.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="791.1" cy="171.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="911.0" cy="173.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="701.0" cy="175.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="766.7" cy="176.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="401.3" cy="178.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="394.6" cy="171.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="894.0" cy="173.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="502.6" cy="175.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="832.1" cy="176.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="835.6" cy="178.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="766.1" cy="171.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="758.3" cy="173.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="804.5" cy="175.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="544.8" cy="176.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="584.5" cy="178.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="904.8" cy="171.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="608.5" cy="173.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="888.3" cy="175.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="531.2" cy="176.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="678.0" cy="178.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="750.9291444389058,168 754.9291444389058,175 750.9291444389058,182 746.9291444389058,175" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="179" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +0.026 ± 0.032   → 18/25 AI&gt;H</text>
+<text x="212" y="201" text-anchor="end" font-size="11" fill="#1E2A32">root_count</text>
+<line x1="610" y1="189" x2="610" y2="205" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="201" font-size="8" fill="#9CA3AF" text-anchor="start">-73</text>
+<text x="1000" y="201" font-size="8" fill="#9CA3AF" text-anchor="end">+73</text>
+<circle cx="870.1" cy="193.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="861.2" cy="195.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="843.4" cy="197.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="684.8" cy="198.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="863.0" cy="200.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="912.9" cy="193.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="793.5" cy="195.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="781.0" cy="197.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="911.1" cy="198.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="651.0" cy="200.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="868.3" cy="193.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="773.9" cy="195.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="752.5" cy="197.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="702.6" cy="198.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="814.9" cy="200.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="704.4" cy="193.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="964.5" cy="195.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="861.2" cy="197.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="602.9" cy="198.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="798.9" cy="200.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="832.7" cy="193.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="870.1" cy="195.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="798.9" cy="197.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="649.2" cy="198.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="765.0" cy="200.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="797.2855185015989,190 801.2855185015989,197 797.2855185015989,204 793.2855185015989,197" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="201" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +35 ± 17   → 24/25 AI&gt;H</text>
+<text x="212" y="223" text-anchor="end" font-size="11" fill="#1E2A32">leaf_count</text>
+<line x1="610" y1="211" x2="610" y2="227" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="223" font-size="8" fill="#9CA3AF" text-anchor="start">-40</text>
+<text x="1000" y="223" font-size="8" fill="#9CA3AF" text-anchor="end">+40</text>
+<circle cx="782.4" cy="215.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="762.9" cy="217.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="714.1" cy="219.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="964.5" cy="220.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="808.4" cy="222.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="707.6" cy="215.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="743.4" cy="217.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="678.3" cy="219.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="766.1" cy="220.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="662.0" cy="222.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="844.2" cy="215.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="818.2" cy="217.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="756.4" cy="219.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="788.9" cy="220.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="691.3" cy="222.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="714.1" cy="215.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="792.2" cy="217.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="727.1" cy="219.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="554.7" cy="220.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="801.9" cy="222.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="697.8" cy="215.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="772.6" cy="217.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="759.6" cy="219.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="444.1" cy="220.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="743.4" cy="222.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="739.8482068390325,212 743.8482068390325,219 739.8482068390325,226 735.8482068390325,219" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="223" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +13 ± 10   → 23/25 AI&gt;H</text>
+<text x="212" y="245" text-anchor="end" font-size="11" fill="#1E2A32">root_leaf_ratio</text>
+<line x1="610" y1="233" x2="610" y2="249" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="245" font-size="8" fill="#9CA3AF" text-anchor="start">-28.40</text>
+<text x="1000" y="245" font-size="8" fill="#9CA3AF" text-anchor="end">+28.40</text>
+<circle cx="616.0" cy="237.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="604.1" cy="239.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="624.3" cy="241.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="255.5" cy="242.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="591.5" cy="244.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="629.1" cy="237.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="577.0" cy="239.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="615.4" cy="241.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="613.7" cy="242.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="606.2" cy="244.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="596.0" cy="237.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="597.3" cy="239.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="604.4" cy="241.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="589.5" cy="242.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="616.8" cy="244.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="607.4" cy="237.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="628.2" cy="239.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="623.9" cy="241.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="632.2" cy="242.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="579.4" cy="244.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="627.5" cy="237.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="606.3" cy="239.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="598.0" cy="241.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="653.9" cy="242.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="599.0" cy="244.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="595.708199053936,234 599.708199053936,241 595.708199053936,248 591.708199053936,241" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="245" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -1.04 ± 5.21   ← 14/25 H&gt;AI</text>
+<text x="212" y="267" text-anchor="end" font-size="11" fill="#1E2A32">mean_depth</text>
+<line x1="610" y1="255" x2="610" y2="271" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="267" font-size="8" fill="#9CA3AF" text-anchor="start">-1.62</text>
+<text x="1000" y="267" font-size="8" fill="#9CA3AF" text-anchor="end">+1.62</text>
+<circle cx="585.5" cy="259.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="554.7" cy="261.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="601.2" cy="263.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="326.2" cy="264.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="554.9" cy="266.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="727.0" cy="259.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="497.7" cy="261.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="692.9" cy="263.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="497.1" cy="264.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="548.0" cy="266.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="587.4" cy="259.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="680.3" cy="261.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="665.1" cy="263.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="614.2" cy="264.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="638.8" cy="266.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="739.5" cy="259.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="488.5" cy="261.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="753.2" cy="263.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="707.4" cy="264.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="663.9" cy="266.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="751.9" cy="259.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="597.7" cy="261.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="605.7" cy="263.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="850.5" cy="264.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="255.5" cy="266.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="607.3858860759192,256 611.3858860759192,263 607.3858860759192,270 603.3858860759192,263" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="267" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -0.01 ± 0.53   ← 13/25 H&gt;AI</text>
+<text x="212" y="289" text-anchor="end" font-size="11" fill="#1E2A32">max_depth</text>
+<line x1="610" y1="277" x2="610" y2="293" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="289" font-size="8" fill="#9CA3AF" text-anchor="start">-6.2</text>
+<text x="1000" y="289" font-size="8" fill="#9CA3AF" text-anchor="end">+6.2</text>
+<circle cx="568.3" cy="281.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="318.0" cy="283.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="589.1" cy="285.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="610.0" cy="286.6" r="3" fill="#9CA3AF" opacity="0.7"/>
+<circle cx="630.9" cy="288.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="735.1" cy="281.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="589.1" cy="283.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="818.6" cy="285.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="589.1" cy="286.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="630.9" cy="288.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="735.1" cy="281.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="568.3" cy="283.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="672.6" cy="285.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="797.7" cy="286.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="505.7" cy="288.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="776.8" cy="281.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="568.3" cy="283.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="818.6" cy="285.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="672.6" cy="286.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="818.6" cy="288.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="839.4" cy="281.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="672.6" cy="283.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="630.9" cy="285.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="776.8" cy="286.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="255.5" cy="288.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="647.5401069518716,278 651.5401069518716,285 647.5401069518716,292 643.5401069518716,285" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="289" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +0.6 ± 2.3   → 15/25 AI&gt;H</text>
+<text x="212" y="311" text-anchor="end" font-size="11" fill="#1E2A32">mean_in_degree</text>
+<line x1="610" y1="299" x2="610" y2="315" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="311" font-size="8" fill="#9CA3AF" text-anchor="start">-0.331</text>
+<text x="1000" y="311" font-size="8" fill="#9CA3AF" text-anchor="end">+0.331</text>
+<circle cx="551.1" cy="303.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="602.9" cy="305.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="464.5" cy="307.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="483.6" cy="308.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="372.0" cy="310.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="684.3" cy="303.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="419.0" cy="305.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="627.3" cy="307.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="255.5" cy="308.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="818.0" cy="310.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="520.7" cy="303.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="597.8" cy="305.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="592.3" cy="307.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="571.3" cy="308.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="534.2" cy="310.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="645.8" cy="303.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="568.4" cy="305.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="683.9" cy="307.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="761.9" cy="308.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="751.5" cy="310.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="329.5" cy="303.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="636.8" cy="305.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="517.5" cy="307.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="821.5" cy="308.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="549.9" cy="310.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="574.446949179124,300 578.446949179124,307 574.446949179124,314 570.446949179124,307" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="311" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -0.030 ± 0.118   ← 16/25 H&gt;AI</text>
+<text x="212" y="333" text-anchor="end" font-size="11" fill="#1E2A32">max_in_degree</text>
+<line x1="610" y1="321" x2="610" y2="337" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="333" font-size="8" fill="#9CA3AF" text-anchor="start">-7.7</text>
+<text x="1000" y="333" font-size="8" fill="#9CA3AF" text-anchor="end">+7.7</text>
+<circle cx="728.2" cy="325.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="626.9" cy="327.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="728.2" cy="329.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="441.2" cy="330.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="610.0" cy="332.2" r="3" fill="#9CA3AF" opacity="0.7"/>
+<circle cx="778.8" cy="325.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="373.6" cy="327.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="508.7" cy="329.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="576.2" cy="330.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="694.4" cy="332.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="441.2" cy="325.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="626.9" cy="327.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="441.2" cy="329.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="508.7" cy="330.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="964.5" cy="332.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="677.5" cy="325.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="593.1" cy="327.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="610.0" cy="329.0" r="3" fill="#9CA3AF" opacity="0.7"/>
+<circle cx="356.8" cy="330.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="407.4" cy="332.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="559.4" cy="325.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="542.5" cy="327.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="660.6" cy="329.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="812.6" cy="330.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="677.5" cy="332.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="597.8441558441558,322 601.8441558441558,329 597.8441558441558,336 593.8441558441558,329" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="333" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -0.2 ± 2.8   ← 14/25 H&gt;AI</text>
+<text x="212" y="355" text-anchor="end" font-size="11" fill="#1E2A32">branching_factor</text>
+<line x1="610" y1="343" x2="610" y2="359" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="355" font-size="8" fill="#9CA3AF" text-anchor="start">-0.34</text>
+<text x="1000" y="355" font-size="8" fill="#9CA3AF" text-anchor="end">+0.34</text>
+<circle cx="640.2" cy="347.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="723.0" cy="349.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="519.5" cy="351.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="864.9" cy="352.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="518.2" cy="354.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="645.7" cy="347.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="523.7" cy="349.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="641.8" cy="351.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="255.5" cy="352.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="810.9" cy="354.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="582.3" cy="347.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="742.4" cy="349.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="631.2" cy="351.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="748.1" cy="352.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="589.9" cy="354.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="727.7" cy="347.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="587.4" cy="349.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="666.2" cy="351.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="629.4" cy="352.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="860.8" cy="354.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="320.2" cy="347.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="709.3" cy="349.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="656.8" cy="351.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="549.3" cy="352.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="642.6" cy="354.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="631.4793431759856,344 635.4793431759856,351 631.4793431759856,358 627.4793431759856,351" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="355" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +0.02 ± 0.12   → 16/25 AI&gt;H</text>
+<rect x="20" y="362" width="1260" height="28" fill="#F3F4F6"/>
+<text x="28" y="380" font-size="12" font-weight="bold" fill="#1E2A32">Claim type mix</text>
+<text x="212" y="405" text-anchor="end" font-size="11" fill="#1E2A32">F_prop (factual)</text>
+<line x1="610" y1="393" x2="610" y2="409" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="405" font-size="8" fill="#9CA3AF" text-anchor="start">-0.255</text>
+<text x="1000" y="405" font-size="8" fill="#9CA3AF" text-anchor="end">+0.255</text>
+<circle cx="565.4" cy="397.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="320.9" cy="399.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="649.1" cy="401.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="620.2" cy="402.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="607.1" cy="404.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="727.8" cy="397.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="908.3" cy="399.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="531.8" cy="401.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="408.8" cy="402.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="605.4" cy="404.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="571.4" cy="397.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="673.0" cy="399.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="449.8" cy="401.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="561.8" cy="402.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="528.2" cy="404.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="525.2" cy="397.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="695.8" cy="399.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="655.0" cy="401.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="651.1" cy="402.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="450.7" cy="404.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="880.2" cy="397.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="255.5" cy="399.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="427.0" cy="401.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="791.8" cy="402.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="556.9" cy="404.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="584.7249676257678,394 588.7249676257678,401 584.7249676257678,408 580.7249676257678,401" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="405" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -0.017 ± 0.099   ← 15/25 H&gt;AI</text>
+<text x="212" y="427" text-anchor="end" font-size="11" fill="#1E2A32">M_prop (mechanism)</text>
+<line x1="610" y1="415" x2="610" y2="431" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="427" font-size="8" fill="#9CA3AF" text-anchor="start">-0.329</text>
+<text x="1000" y="427" font-size="8" fill="#9CA3AF" text-anchor="end">+0.329</text>
+<circle cx="578.9" cy="419.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="604.3" cy="421.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="522.0" cy="423.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="431.4" cy="424.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="386.1" cy="426.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="493.4" cy="419.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="255.5" cy="421.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="660.4" cy="423.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="645.6" cy="424.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="703.2" cy="426.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="653.8" cy="419.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="517.0" cy="421.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="665.7" cy="423.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="571.8" cy="424.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="649.0" cy="426.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="419.9" cy="419.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="509.5" cy="421.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="359.4" cy="423.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="572.5" cy="424.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="689.6" cy="426.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="574.0" cy="419.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="625.2" cy="421.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="652.8" cy="423.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="610.8" cy="424.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="438.5" cy="426.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="551.615202254688,416 555.615202254688,423 551.615202254688,430 547.615202254688,423" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="427" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -0.049 ± 0.096   ← 15/25 H&gt;AI</text>
+<text x="212" y="449" text-anchor="end" font-size="11" fill="#1E2A32">V_prop (value/eval)</text>
+<line x1="610" y1="437" x2="610" y2="453" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="449" font-size="8" fill="#9CA3AF" text-anchor="start">-0.204</text>
+<text x="1000" y="449" font-size="8" fill="#9CA3AF" text-anchor="end">+0.204</text>
+<circle cx="705.7" cy="441.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="907.5" cy="443.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="765.8" cy="445.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="765.3" cy="446.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="876.7" cy="448.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="749.9" cy="441.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="690.5" cy="443.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="837.9" cy="445.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="849.0" cy="446.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="452.3" cy="448.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="462.7" cy="441.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="844.2" cy="443.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="664.7" cy="445.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="558.8" cy="446.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="734.3" cy="448.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="952.1" cy="441.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="769.0" cy="443.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="825.1" cy="445.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="567.4" cy="446.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="600.9" cy="448.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="586.0" cy="441.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="964.5" cy="443.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="785.0" cy="445.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="700.2" cy="446.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="898.1" cy="448.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="740.5415833714158,438 744.5415833714158,445 740.5415833714158,452 736.5415833714158,445" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="449" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +0.068 ± 0.073   → 19/25 AI&gt;H</text>
+<text x="212" y="471" text-anchor="end" font-size="11" fill="#1E2A32">P_prop (prescriptive)</text>
+<line x1="610" y1="459" x2="610" y2="475" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="471" font-size="8" fill="#9CA3AF" text-anchor="start">-0.183</text>
+<text x="1000" y="471" font-size="8" fill="#9CA3AF" text-anchor="end">+0.183</text>
+<circle cx="621.1" cy="463.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="690.3" cy="465.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="540.1" cy="467.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="743.3" cy="468.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="718.7" cy="470.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="499.8" cy="463.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="742.2" cy="465.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="374.1" cy="467.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="559.2" cy="468.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="624.9" cy="470.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="749.3" cy="463.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="428.5" cy="465.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="671.6" cy="467.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="802.5" cy="468.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="515.2" cy="470.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="687.7" cy="463.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="494.1" cy="465.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="757.5" cy="467.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="667.7" cy="468.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="698.6" cy="470.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="326.1" cy="463.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="680.1" cy="465.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="592.4" cy="467.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="255.5" cy="468.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="670.5" cy="470.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="604.4308996257513,460 608.4308996257513,467 604.4308996257513,474 600.4308996257513,467" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="471" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -0.003 ± 0.066   ← 10/25 H&gt;AI</text>
+<rect x="20" y="478" width="1260" height="28" fill="#F3F4F6"/>
+<text x="28" y="496" font-size="12" font-weight="bold" fill="#1E2A32">Edge type mix</text>
+<text x="212" y="521" text-anchor="end" font-size="11" fill="#1E2A32">s_rate (support)</text>
+<line x1="610" y1="509" x2="610" y2="525" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="521" font-size="8" fill="#9CA3AF" text-anchor="start">-0.274</text>
+<text x="1000" y="521" font-size="8" fill="#9CA3AF" text-anchor="end">+0.274</text>
+<circle cx="542.8" cy="513.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="719.2" cy="515.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="569.7" cy="517.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="268.4" cy="518.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="410.5" cy="520.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="698.9" cy="513.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="394.3" cy="515.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="928.1" cy="517.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="660.0" cy="518.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="513.1" cy="520.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="495.7" cy="513.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="808.6" cy="515.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="569.6" cy="517.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="439.1" cy="518.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="734.2" cy="520.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="639.5" cy="513.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="726.6" cy="515.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="710.5" cy="517.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="385.0" cy="518.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="450.7" cy="520.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="786.6" cy="513.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="582.8" cy="515.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="474.9" cy="517.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="964.5" cy="518.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="556.8" cy="520.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="601.2132500805051,510 605.2132500805051,517 601.2132500805051,524 597.2132500805051,517" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="521" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -0.006 ± 0.119   ← 14/25 H&gt;AI</text>
+<text x="212" y="543" text-anchor="end" font-size="11" fill="#1E2A32">w_rate (warrant)</text>
+<line x1="610" y1="531" x2="610" y2="547" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="543" font-size="8" fill="#9CA3AF" text-anchor="start">-0.196</text>
+<text x="1000" y="543" font-size="8" fill="#9CA3AF" text-anchor="end">+0.196</text>
+<circle cx="664.8" cy="535.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="651.3" cy="537.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="619.9" cy="539.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="654.1" cy="540.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="668.6" cy="542.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="634.4" cy="535.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="815.6" cy="537.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="312.4" cy="539.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="722.6" cy="540.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="707.5" cy="542.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="789.5" cy="535.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="540.3" cy="537.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="654.8" cy="539.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="716.0" cy="540.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="714.6" cy="542.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="821.6" cy="535.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="662.0" cy="537.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="255.5" cy="539.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="779.9" cy="540.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="573.7" cy="542.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="591.8" cy="535.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="679.3" cy="537.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="733.5" cy="539.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="416.1" cy="540.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="744.6" cy="542.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="644.9691875467477,532 648.9691875467477,539 644.9691875467477,546 640.9691875467477,539" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="543" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +0.018 ± 0.069   → 19/25 AI&gt;H</text>
+<text x="212" y="565" text-anchor="end" font-size="11" fill="#1E2A32">j_rate (justification)</text>
+<line x1="610" y1="553" x2="610" y2="569" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="565" font-size="8" fill="#9CA3AF" text-anchor="start">-0.167</text>
+<text x="1000" y="565" font-size="8" fill="#9CA3AF" text-anchor="end">+0.167</text>
+<circle cx="616.5" cy="557.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="722.8" cy="559.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="598.8" cy="561.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="763.9" cy="562.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="865.2" cy="564.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="659.4" cy="557.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="785.9" cy="559.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="469.4" cy="561.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="323.9" cy="562.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="758.7" cy="564.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="546.8" cy="557.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="311.4" cy="559.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="712.1" cy="561.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="770.9" cy="562.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="407.4" cy="564.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="498.1" cy="557.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="436.6" cy="559.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="964.5" cy="561.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="677.7" cy="562.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="820.6" cy="564.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="390.0" cy="557.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="839.7" cy="559.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="667.0" cy="561.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="461.5" cy="562.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="699.3" cy="564.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="630.729187698149,554 634.729187698149,561 630.729187698149,568 626.729187698149,561" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="565" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +0.009 ± 0.075   → 15/25 AI&gt;H</text>
+<text x="212" y="587" text-anchor="end" font-size="11" fill="#1E2A32">e_rate (elaboration)</text>
+<line x1="610" y1="575" x2="610" y2="591" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="587" font-size="8" fill="#9CA3AF" text-anchor="start">-0.167</text>
+<text x="1000" y="587" font-size="8" fill="#9CA3AF" text-anchor="end">+0.167</text>
+<circle cx="649.4" cy="579.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="269.4" cy="581.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="675.7" cy="583.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="964.5" cy="584.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="613.0" cy="586.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="386.1" cy="579.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="546.4" cy="581.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="578.0" cy="583.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="682.4" cy="584.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="505.6" cy="586.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="650.3" cy="579.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="665.1" cy="581.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="521.4" cy="583.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="604.9" cy="584.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="486.5" cy="586.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="425.5" cy="579.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="531.4" cy="581.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="505.8" cy="583.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="711.9" cy="584.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="702.9" cy="586.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="562.0" cy="579.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="343.2" cy="581.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="629.6" cy="583.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="404.5" cy="584.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="450.0" cy="586.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="562.6310631114212,576 566.6310631114212,583 562.6310631114212,590 558.6310631114212,583" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="587" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -0.020 ± 0.061   ← 15/25 H&gt;AI</text>
+<text x="212" y="609" text-anchor="end" font-size="11" fill="#1E2A32">s_w_ratio</text>
+<line x1="610" y1="597" x2="610" y2="613" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="609" font-size="8" fill="#9CA3AF" text-anchor="start">-81.92</text>
+<text x="1000" y="609" font-size="8" fill="#9CA3AF" text-anchor="end">+81.92</text>
+<circle cx="585.5" cy="601.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="604.2" cy="603.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="619.6" cy="605.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="571.4" cy="606.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="568.4" cy="608.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="610.7" cy="601.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="255.5" cy="603.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="676.4" cy="605.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="534.5" cy="606.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="581.4" cy="608.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="566.3" cy="601.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="632.6" cy="603.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="591.2" cy="605.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="541.1" cy="606.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="595.6" cy="608.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="300.8" cy="601.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="611.0" cy="603.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="630.7" cy="605.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="412.5" cy="606.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="613.6" cy="608.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="660.3" cy="601.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="597.5" cy="603.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="546.6" cy="605.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="644.4" cy="606.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="556.9" cy="608.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="564.3409153857157,598 568.3409153857157,605 564.3409153857157,612 560.3409153857157,605" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="609" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -9.59 ± 20.66   ← 16/25 H&gt;AI</text>
+<rect x="20" y="616" width="1260" height="28" fill="#F3F4F6"/>
+<text x="28" y="634" font-size="12" font-weight="bold" fill="#1E2A32">Chain composition</text>
+<text x="212" y="659" text-anchor="end" font-size="11" fill="#1E2A32">chain_count</text>
+<line x1="610" y1="647" x2="610" y2="663" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="659" font-size="8" fill="#9CA3AF" text-anchor="start">-513</text>
+<text x="1000" y="659" font-size="8" fill="#9CA3AF" text-anchor="end">+513</text>
+<circle cx="765.7" cy="651.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="790.1" cy="653.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="729.4" cy="655.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="614.6" cy="656.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="811.6" cy="658.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="913.1" cy="651.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="862.6" cy="653.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="575.5" cy="655.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="558.0" cy="656.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="641.4" cy="658.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="786.0" cy="651.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="872.5" cy="653.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="584.4" cy="655.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="757.3" cy="656.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="761.9" cy="658.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="845.3" cy="651.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="615.8" cy="653.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="864.4" cy="655.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="845.6" cy="656.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="964.5" cy="658.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="761.4" cy="651.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="693.4" cy="653.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="768.0" cy="655.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="832.4" cy="656.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="481.4" cy="658.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="747.8618806086617,648 751.8618806086617,655 747.8618806086617,662 743.8618806086617,655" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="659" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +181 ± 159   → 21/25 AI&gt;H</text>
+<text x="212" y="681" text-anchor="end" font-size="11" fill="#1E2A32">chains_pure_s (count)</text>
+<line x1="610" y1="669" x2="610" y2="685" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="681" font-size="8" fill="#9CA3AF" text-anchor="start">-184</text>
+<text x="1000" y="681" font-size="8" fill="#9CA3AF" text-anchor="end">+184</text>
+<circle cx="713.8" cy="673.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="801.4" cy="675.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="722.3" cy="677.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="453.9" cy="678.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="781.6" cy="680.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="840.2" cy="673.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="613.5" cy="675.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="964.5" cy="677.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="699.0" cy="678.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="606.5" cy="680.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="772.4" cy="673.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="932.1" cy="675.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="708.2" cy="677.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="736.4" cy="678.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="863.5" cy="680.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="803.5" cy="673.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="681.3" cy="675.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="867.1" cy="677.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="740.0" cy="678.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="811.3" cy="680.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="857.9" cy="673.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="733.6" cy="675.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="769.6" cy="677.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="896.7" cy="678.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="507.6" cy="680.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="755.1235059760955,670 759.1235059760955,677 755.1235059760955,684 751.1235059760955,677" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="681" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +68 ± 56   → 22/25 AI&gt;H</text>
+<text x="212" y="703" text-anchor="end" font-size="11" fill="#1E2A32">chains_contain_w (count)</text>
+<line x1="610" y1="691" x2="610" y2="707" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="703" font-size="8" fill="#9CA3AF" text-anchor="start">-165</text>
+<text x="1000" y="703" font-size="8" fill="#9CA3AF" text-anchor="end">+165</text>
+<circle cx="691.8" cy="695.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="746.8" cy="697.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="599.8" cy="699.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="641.4" cy="700.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="750.7" cy="702.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="895.4" cy="695.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="964.5" cy="697.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="330.9" cy="699.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="702.8" cy="700.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="706.7" cy="702.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="848.2" cy="695.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="705.9" cy="697.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="713.0" cy="699.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="739.7" cy="700.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="750.7" cy="702.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="834.8" cy="695.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="797.1" cy="697.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="876.5" cy="699.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="885.1" cy="700.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="847.4" cy="702.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="709.1" cy="695.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="729.5" cy="697.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="802.6" cy="699.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="688.6" cy="700.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="658.0" cy="702.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="744.6801048175771,692 748.6801048175771,699 744.6801048175771,706 740.6801048175771,699" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="703" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +57 ± 51   → 23/25 AI&gt;H</text>
+<text x="212" y="725" text-anchor="end" font-size="11" fill="#1E2A32">chains_contain_j (count)</text>
+<line x1="610" y1="713" x2="610" y2="729" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="725" font-size="8" fill="#9CA3AF" text-anchor="start">-285</text>
+<text x="1000" y="725" font-size="8" fill="#9CA3AF" text-anchor="end">+285</text>
+<circle cx="762.4" cy="717.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="774.3" cy="719.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="700.8" cy="721.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="566.7" cy="722.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="789.3" cy="724.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="840.4" cy="717.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="944.5" cy="719.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="330.7" cy="721.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="351.7" cy="722.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="663.4" cy="724.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="699.9" cy="717.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="779.7" cy="719.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="452.1" cy="721.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="730.9" cy="722.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="510.1" cy="724.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="786.1" cy="717.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="475.8" cy="719.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="772.9" cy="721.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="776.1" cy="722.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="964.5" cy="724.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="615.9" cy="717.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="673.0" cy="719.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="707.6" cy="721.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="719.5" cy="722.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="473.1" cy="724.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="674.4661284661285,714 678.4661284661285,721 674.4661284661285,728 670.4661284661285,721" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="725" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +47 ± 119   → 18/25 AI&gt;H</text>
+<text x="212" y="747" text-anchor="end" font-size="11" fill="#1E2A32">chains_contain_e (count)</text>
+<line x1="610" y1="735" x2="610" y2="751" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="747" font-size="8" fill="#9CA3AF" text-anchor="start">-229</text>
+<text x="1000" y="747" font-size="8" fill="#9CA3AF" text-anchor="end">+229</text>
+<circle cx="697.4" cy="739.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="683.7" cy="741.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="728.6" cy="743.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="964.5" cy="744.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="712.7" cy="746.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="790.4" cy="739.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="891.9" cy="741.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="416.0" cy="743.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="726.3" cy="744.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="579.4" cy="746.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="755.8" cy="739.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="883.4" cy="741.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="366.6" cy="743.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="713.2" cy="744.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="728.6" cy="746.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="687.1" cy="739.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="389.9" cy="741.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="654.8" cy="743.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="839.2" cy="744.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="920.9" cy="746.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="641.2" cy="739.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="633.8" cy="741.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="756.4" cy="743.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="708.1" cy="744.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="527.7" cy="746.2" r="3" fill="#C4842A" opacity="0.7"/>
+<polygon points="695.9077818181818,736 699.9077818181818,743 695.9077818181818,750 691.9077818181818,743" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="747" font-size="10.5" fill="#1E2A32" font-family="monospace">mean +50 ± 89   → 20/25 AI&gt;H</text>
+<rect x="20" y="754" width="1260" height="28" fill="#F3F4F6"/>
+<text x="28" y="772" font-size="12" font-weight="bold" fill="#1E2A32">Citation behaviour</text>
+<text x="212" y="797" text-anchor="end" font-size="11" fill="#1E2A32">strict_ext_rate</text>
+<line x1="610" y1="785" x2="610" y2="801" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="797" font-size="8" fill="#9CA3AF" text-anchor="start">-0.540</text>
+<text x="1000" y="797" font-size="8" fill="#9CA3AF" text-anchor="end">+0.540</text>
+<circle cx="534.1" cy="789.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="571.7" cy="791.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="595.0" cy="793.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="602.8" cy="794.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="467.4" cy="796.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="592.0" cy="789.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="636.7" cy="791.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="517.3" cy="793.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="583.4" cy="794.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="553.1" cy="796.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="547.8" cy="789.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="525.4" cy="791.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="612.8" cy="793.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="578.1" cy="794.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="554.5" cy="796.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="539.6" cy="789.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="485.1" cy="791.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="511.8" cy="793.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="595.6" cy="794.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="439.3" cy="796.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="716.8" cy="789.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="436.9" cy="791.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="255.5" cy="793.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="302.7" cy="794.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="633.4" cy="796.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="535.5525120911237,786 539.5525120911237,793 535.5525120911237,800 531.5525120911237,793" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="797" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -0.103 ± 0.136   ← 21/25 H&gt;AI</text>
+<text x="212" y="819" text-anchor="end" font-size="11" fill="#1E2A32">lenient_rate</text>
+<line x1="610" y1="807" x2="610" y2="823" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="819" font-size="8" fill="#9CA3AF" text-anchor="start">-0.869</text>
+<text x="1000" y="819" font-size="8" fill="#9CA3AF" text-anchor="end">+0.869</text>
+<circle cx="537.1" cy="811.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="516.0" cy="813.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="388.2" cy="815.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="446.0" cy="816.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="291.0" cy="818.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="447.6" cy="811.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="632.4" cy="813.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="564.0" cy="815.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="629.5" cy="816.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="584.7" cy="818.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="609.1" cy="811.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="462.7" cy="813.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="728.4" cy="815.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="524.7" cy="816.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="359.2" cy="818.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="382.4" cy="811.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="440.1" cy="813.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="351.4" cy="815.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="501.3" cy="816.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="314.0" cy="818.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="560.9" cy="811.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="382.5" cy="813.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="358.7" cy="815.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="255.5" cy="816.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="689.9" cy="818.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="478.28674876223033,808 482.28674876223033,815 478.28674876223033,822 474.28674876223033,815" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="819" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -0.293 ± 0.278   ← 21/25 H&gt;AI</text>
+<text x="212" y="841" text-anchor="end" font-size="11" fill="#1E2A32">delta (lenient − strict)</text>
+<line x1="610" y1="829" x2="610" y2="845" stroke="#9CA3AF" stroke-width="1"/>
+<text x="220" y="841" font-size="8" fill="#9CA3AF" text-anchor="start">-0.565</text>
+<text x="1000" y="841" font-size="8" fill="#9CA3AF" text-anchor="end">+0.565</text>
+<circle cx="570.4" cy="833.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="502.0" cy="835.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="283.0" cy="837.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="364.6" cy="838.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="255.5" cy="840.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="377.3" cy="833.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="619.0" cy="835.4" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="627.8" cy="837.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="665.3" cy="838.6" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="625.5" cy="840.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="668.1" cy="833.8" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="464.2" cy="835.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="789.4" cy="837.0" r="3" fill="#3B7DAB" opacity="0.7"/>
+<circle cx="509.2" cy="838.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="277.1" cy="840.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="327.2" cy="833.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="468.0" cy="835.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="306.0" cy="837.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="456.6" cy="838.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="317.7" cy="840.2" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="432.3" cy="833.8" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="425.5" cy="835.4" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="562.4" cy="837.0" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="358.3" cy="838.6" r="3" fill="#C4842A" opacity="0.7"/>
+<circle cx="710.6" cy="840.2" r="3" fill="#3B7DAB" opacity="0.7"/>
+<polygon points="478.5226673780312,830 482.5226673780312,837 478.5226673780312,844 474.5226673780312,837" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1020" y="841" font-size="10.5" fill="#1E2A32" font-family="monospace">mean -0.190 ± 0.215   ← 18/25 H&gt;AI</text>
+<circle cx="26" cy="866" r="3.5" fill="#3B7DAB" opacity="0.7"/>
+<text x="36" y="870" font-size="10" fill="#374151">AI &gt; Human (per entity)</text>
+<circle cx="200" cy="866" r="3.5" fill="#C4842A" opacity="0.7"/>
+<text x="210" y="870" font-size="10" fill="#374151">Human &gt; AI (per entity)</text>
+<polygon points="376,862 384,866 376,870 368,866" fill="#1E2A32" stroke="#FFFFFF"/>
+<text x="392" y="870" font-size="10" fill="#374151">Corpus mean (diamond tick)</text>
+<line x1="580" y1="861" x2="580" y2="871" stroke="#9CA3AF"/>
+<text x="588" y="870" font-size="10" fill="#374151">Zero line (no difference)</text>
+<text x="800" y="870" font-size="10" fill="#6B7280">n=25 matched entity pairs (Human vs mean of 3 E3 seeds per entity).</text>
+</svg>

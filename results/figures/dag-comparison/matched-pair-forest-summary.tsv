@@ -1,0 +1,30 @@
+group	metric	n	mean_diff	sd_diff	pct_ai_higher
+Volume & architecture	n_nodes	25	81.9467	26.9452	1.000
+Volume & architecture	n_edges	25	78.2000	21.3052	1.000
+Volume & architecture	component_count	25	11.5067	8.6616	0.880
+Volume & architecture	orphan_rate	25	0.0259	0.0316	0.720
+Volume & architecture	root_count	25	35.0400	16.7911	0.960
+Volume & architecture	leaf_count	25	13.3067	9.7054	0.920
+Volume & architecture	root_leaf_ratio	25	-1.0408	5.2122	0.440
+Volume & architecture	mean_depth	25	-0.0108	0.5338	0.480
+Volume & architecture	max_depth	25	0.6000	2.2862	0.600
+Volume & architecture	mean_in_deg	25	-0.0302	0.1177	0.360
+Volume & architecture	max_in_deg	25	-0.2400	2.8324	0.440
+Volume & architecture	branching_factor	25	0.0189	0.1221	0.640
+Claim type mix	F_prop	25	-0.0165	0.0988	0.400
+Claim type mix	M_prop	25	-0.0493	0.0960	0.400
+Claim type mix	V_prop	25	0.0684	0.0731	0.760
+Claim type mix	P_prop	25	-0.0026	0.0664	0.600
+Edge type mix	s_rate	25	-0.0062	0.1190	0.440
+Edge type mix	w_rate	25	0.0176	0.0691	0.760
+Edge type mix	j_rate	25	0.0089	0.0753	0.600
+Edge type mix	e_rate	25	-0.0203	0.0607	0.400
+Edge type mix	s_w_ratio	25	-9.5909	20.6648	0.360
+Chain composition	chain_count	25	181.2000	158.7065	0.840
+Chain composition	chains_pure_s	25	68.4933	56.2365	0.880
+Chain composition	chains_contain_w	25	57.1067	51.3938	0.920
+Chain composition	chains_contain_j	25	47.0933	118.7517	0.720
+Chain composition	chains_contain_e	25	50.4800	88.5612	0.800
+Citation behaviour	strict_ext_rate	25	-0.1031	0.1355	0.160
+Citation behaviour	lenient_rate	25	-0.2934	0.2784	0.160
+Citation behaviour	delta	25	-0.1903	0.2152	0.280
