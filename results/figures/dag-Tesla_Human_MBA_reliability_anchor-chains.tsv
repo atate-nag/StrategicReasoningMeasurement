@@ -1,0 +1,6 @@
+chain_idx	conclusion_id	depth	path	weakest_link	grounding_quality
+1	P105	7	P068→P069→P067→P070→P071→P113→P105		
+2	P104	6	P039→P038→P040→P109→P110→P104		
+3	P007	5	P058→P002→P004→P005→P007		
+4	P033	5	P039→P038→P040→P034→P033		
+5	P102	5	P058→P002→P004→P101→P102		
