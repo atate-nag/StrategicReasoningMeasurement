@@ -541,25 +541,26 @@ Headline trajectories (mean across cells per rung; AI rungs + human as comparato
 
 | Measure | TMBA | E1 | E2 | E3 | Human | Direction |
 |---|---|---|---|---|---|---|
-| strict_ext_rate | 2.7% | 7.0% | 7.1% | 6.4% | 16.7% | E1 jump; human higher |
-| lenient_rate | 30.3% | 29.3% | 31.1% | 33.3% | — | mild ↑ across rungs |
-| delta (lenient−strict) | 27.6pp | 22.4pp | 24.0pp | 26.8pp | — | TMBA biggest gap (less actual citing) |
+| strict_ext_rate | 2.7% | 7.0% | 7.1% | 6.4% | **16.7%** | E1 jump; human ~2.5× any AI rung |
+| lenient_rate | 30.3% | 29.3% | 31.1% | 33.3% | **62.6%** | human ~2× any AI rung |
+| delta (lenient−strict) | 27.6pp | 22.4pp | 24.0pp | 26.8pp | **45.9pp** | **human has LARGEST detectability gap** |
 | s_rate | 58.7% | 65.0% | 67.6% | 66.4% | 67.1% | TMBA lower; E1+ matches human |
 | w_rate | 5.9% | 6.7% | 7.3% | 9.3% | 7.5% | ↑ across rungs |
 | j_rate | 22.2% | 16.8% | 16.8% | 14.4% | 13.6% | ↓ across rungs toward human |
-| s_w_ratio | 15.96 | 12.50 | 13.22 | 8.84 | 18.43 | E3 most warrant-rich |
-| F_prop | 35.3% | 38.1% | 36.7% | 39.1% | — | mild ↑ |
-| M_prop | 14.2% | 17.3% | 20.2% | 21.5% | — | ↑ |
-| V_prop | 31.5% | 31.7% | 33.2% | 30.5% | — | ≈ |
-| P_prop | 19.0% | 12.8% | 10.0% | — | — | ↓ (less recommendation under stronger elicitation) |
+| s_w_ratio | 15.96 | 12.50 | 13.22 | 8.84 | 18.43 | E3 most warrant-rich; human variance huge (SD=20) |
+| F_prop | 35.3% | 38.1% | 36.7% | 39.1% | **40.8%** | mild ↑; human highest |
+| M_prop | 14.2% | 17.3% | 20.2% | 21.5% | **26.4%** | ↑ across AI rungs; **human exceeds even E3** |
+| V_prop | 31.5% | 31.7% | 33.2% | 30.5% | **23.7%** | AI ≈stable ~31%; **human substantially LOWER** |
+| P_prop | 19.0% | 12.8% | 10.0% | 8.9% | **9.1%** | ↓ across AI rungs; E3 and human converge |
 | orphan_rate | 6.1% | 5.6% | 5.2% | 4.9% | 2.4% | ↓ across rungs toward human |
 | component_count | 21.4 | 24.9 | 22.2 | 20.6 | 9.1 | AI fragments more than human |
 | root_count | 64.2 | 87.9 | 85.1 | 80.4 | 45.4 | AI has more roots |
-| mean_depth | 1.02 | 1.25 | 1.36 | 1.43 | (look up) | ↑ deeper chains under elicitation |
+| mean_depth | 1.02 | 1.25 | 1.36 | 1.43 | **1.44** | ↑ deeper chains under elicitation; human matches E3 |
+| max_depth | 4.6 | 5.5 | 5.8 | 5.9 | 5.3 | E3 > E2 > Human; AI exceeds human on deepest single chain |
 | AI source REAL+SUPPORTS | 48% | 64% | 64% | 70% | 14% | ↑ across rungs |
 | AI source unverifiable | 2% | 0% | 6% | 10% | 41% | E3 spends more on verifiable-but-niche; human very high |
 
-**Signal status: CANDIDATE — multiple publishable elicitation-gradient signals.** Candidates: (a) E1 jumps strict_ext_rate 2.7%→7.0% (gating-the-cite effect of elicitation); (b) E3 has lowest s_w_ratio + highest M_prop + deepest chains (mechanistic reasoning lift); (c) AI consistently more fragmented (more components, more roots) than humans — orphan_rate trends toward human across rungs but doesn't reach it.
+**Signal status: CANDIDATE — multiple publishable elicitation-gradient signals.** Candidates: (a) E1 jumps strict_ext_rate 2.7%→7.0% (gating-the-cite effect of elicitation); (b) E3 has lowest s_w_ratio + highest M_prop + deepest chains (mechanistic reasoning lift); (c) AI consistently more fragmented (more components, more roots) than humans — orphan_rate trends toward human across rungs but doesn't reach it; (d) **AI rungs are V-heavier and less M-heavy than human**: humans use the most mechanism reasoning of any group (26.4% vs E3 21.5%) and the least evaluative (23.7% vs AI ~31%); (e) **humans have the LARGEST detectability gap** (lenient 62.6% / strict 16.7% / delta 45.9pp) — paragraphs LOOK heavily cited but most claims don't pass v5.3 strict attribution.
 
 Within-rung seed SD column shows substantial within-cell variance — single-seed claims should be qualified.
 
