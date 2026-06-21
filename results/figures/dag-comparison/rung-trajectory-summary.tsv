@@ -1,0 +1,30 @@
+group	metric	TMBA_mean	TMBA_sd	E1_mean	E1_sd	E2_mean	E2_sd	E3_mean	E3_sd	trajectory_shape
+Volume & architecture	n_nodes	57.7333	42.3004	95.1467	24.7692	91.2400	26.3343	81.9467	26.9452	diverges from 0 (non-monotonic)
+Volume & architecture	n_edges	51.8533	37.4268	85.0933	20.7691	84.2800	23.4386	78.2000	21.3052	diverges from 0 (non-monotonic)
+Volume & architecture	component_count	12.3200	10.9692	15.8533	9.2131	13.0800	9.6034	11.5067	8.6616	roughly flat (non-monotonic)
+Volume & architecture	orphan_rate	0.0376	0.0365	0.0325	0.0299	0.0289	0.0295	0.0259	0.0316	roughly flat
+Volume & architecture	root_count	18.8267	21.6725	42.5467	13.1801	39.7067	16.2323	35.0400	16.7911	diverges from 0 (non-monotonic)
+Volume & architecture	leaf_count	18.9867	10.2543	18.5867	8.8856	16.9733	10.3987	13.3067	9.7054	roughly flat
+Volume & architecture	root_leaf_ratio	-2.1559	4.9456	-1.1764	4.9594	-1.3814	5.0678	-1.0408	5.2122	converges toward 0 (non-monotonic)
+Volume & architecture	mean_depth	-0.4245	0.5028	-0.1880	0.6402	-0.0762	0.6686	-0.0108	0.5338	converges toward 0
+Volume & architecture	max_depth	-0.7600	2.4577	0.1600	2.5805	0.4667	2.8000	0.6000	2.2862	roughly flat
+Volume & architecture	mean_in_deg	-0.0115	0.1402	-0.0632	0.1142	-0.0457	0.1302	-0.0302	0.1177	diverges from 0 (non-monotonic)
+Volume & architecture	max_in_deg	-0.5600	2.8405	0.3867	3.1165	-0.2133	2.6897	-0.2400	2.8324	converges toward 0 (non-monotonic)
+Volume & architecture	branching_factor	0.1618	0.1399	0.0146	0.0936	0.0226	0.1060	0.0189	0.1221	converges toward 0
+Claim type mix	F_prop	-0.0549	0.1306	-0.0265	0.1036	-0.0414	0.1099	-0.0165	0.0988	converges toward 0 (non-monotonic)
+Claim type mix	M_prop	-0.1217	0.1040	-0.0910	0.1044	-0.0626	0.1042	-0.0493	0.0960	converges toward 0
+Claim type mix	V_prop	0.0781	0.0859	0.0804	0.0738	0.0950	0.0760	0.0684	0.0731	roughly flat (non-monotonic)
+Claim type mix	P_prop	0.0985	0.0884	0.0371	0.0669	0.0089	0.0676	-0.0026	0.0664	converges toward 0
+Edge type mix	s_rate	-0.0833	0.1253	-0.0203	0.1064	0.0053	0.0999	-0.0062	0.1190	converges toward 0 (non-monotonic)
+Edge type mix	w_rate	-0.0162	0.0672	-0.0080	0.0673	-0.0025	0.0667	0.0176	0.0691	roughly flat
+Edge type mix	j_rate	0.0865	0.0890	0.0322	0.0680	0.0328	0.0751	0.0089	0.0753	converges toward 0
+Edge type mix	e_rate	0.0130	0.0591	-0.0039	0.0550	-0.0356	0.0498	-0.0203	0.0607	diverges from 0 (non-monotonic)
+Edge type mix	s_w_ratio	-2.0879	21.6125	-5.8085	19.1048	-5.2076	22.7962	-9.5909	20.6648	diverges from 0 (non-monotonic)
+Chain composition	chain_count	79.4400	173.9780	166.7067	169.6303	200.2133	189.6915	181.2000	158.7065	diverges from 0 (non-monotonic)
+Chain composition	chains_pure_s	12.6533	61.4890	72.9200	76.6563	88.8933	86.1350	68.4933	56.2365	diverges from 0 (non-monotonic)
+Chain composition	chains_contain_w	4.6267	42.7130	17.1200	42.8671	31.8933	41.5001	57.1067	51.3938	diverges from 0
+Chain composition	chains_contain_j	49.2133	124.3539	52.0533	94.0619	65.8267	107.4216	47.0933	118.7517	roughly flat (non-monotonic)
+Chain composition	chains_contain_e	40.4933	90.3725	47.1733	81.7308	43.3200	82.6246	50.4800	88.5612	roughly flat (non-monotonic)
+Citation behaviour	strict_ext_rate	-0.1400	0.1331	-0.0979	0.1257	-0.0965	0.1426	-0.1031	0.1355	roughly flat
+Citation behaviour	lenient_rate	-0.3230	0.2635	-0.3331	0.2596	-0.3151	0.2833	-0.2934	0.2784	roughly flat (non-monotonic)
+Citation behaviour	delta	-0.1830	0.1938	-0.2352	0.1953	-0.2186	0.2008	-0.1903	0.2152	roughly flat (non-monotonic)

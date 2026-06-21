@@ -1,0 +1,535 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1262 1180" font-family="Helvetica, Arial, sans-serif" font-size="11">
+<rect width="1262" height="1180" fill="#FFFFFF"/>
+<text x="631" y="28" font-size="17" font-weight="bold" text-anchor="middle" fill="#1E2A32">Elicitation-ladder trajectory: AI − Human mean difference across rungs (n=25 matched entity pairs per rung)</text>
+<text x="631" y="48" font-size="11" text-anchor="middle" fill="#6B7280">Each panel: one metric. X-axis = rung. Y-axis = mean(AI rung − Human) ± SD across 25 entities. Reference line at y=0 (parity with human).</text>
+<text x="631" y="64" font-size="11" text-anchor="middle" fill="#6B7280">Line trending toward 0 across rungs = elicitation moves AI toward human on that metric.</text>
+<text x="139" y="94" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">n_nodes</text>
+<rect x="74" y="104" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="74" y1="206" x2="246" y2="206" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="70" y="209" text-anchor="end" font-size="8" fill="#6B7280">-18</text>
+<line x1="74" y1="194.23076872745764" x2="246" y2="194.23076872745764" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="70" y="197.23076872745764" text-anchor="end" font-size="8" fill="#6B7280">0</text>
+<line x1="74" y1="104" x2="246" y2="104" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="70" y="107" text-anchor="end" font-size="8" fill="#6B7280">138</text>
+<text x="95.5" y="226" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="138.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="181.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="224.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="95.5,128.8 138.5,115.8 181.5,117.3 224.5,123.0 224.5,158.2 181.5,151.8 138.5,148.2 95.5,184.1" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 95.5 156.5 L 138.5 132.0 L 181.5 134.5 L 224.5 140.6" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="95.5" cy="156.5" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="138.5" cy="132.0" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="181.5" cy="134.5" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="224.5" cy="140.6" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="385" y="94" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">n_edges</text>
+<rect x="320" y="104" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="320" y1="206" x2="492" y2="206" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="316" y="209" text-anchor="end" font-size="8" fill="#6B7280">-16</text>
+<line x1="320" y1="194.23076867046626" x2="492" y2="194.23076867046626" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="316" y="197.23076867046626" text-anchor="end" font-size="8" fill="#6B7280">0</text>
+<line x1="320" y1="104" x2="492" y2="104" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="316" y="107" text-anchor="end" font-size="8" fill="#6B7280">124</text>
+<text x="341.5" y="226" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="384.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="427.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="470.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="341.5,129.2 384.5,117.1 427.5,115.8 470.5,121.8 470.5,152.8 427.5,149.9 384.5,147.4 341.5,183.7" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 341.5 156.5 L 384.5 132.2 L 427.5 132.8 L 470.5 137.3" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="341.5" cy="156.5" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="384.5" cy="132.2" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="427.5" cy="132.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="470.5" cy="137.3" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="631" y="94" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">component_count</text>
+<rect x="566" y="104" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="566" y1="206" x2="738" y2="206" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="562" y="209" text-anchor="end" font-size="8" fill="#6B7280">-3.8</text>
+<line x1="566" y1="194.23076682296391" x2="738" y2="194.23076682296391" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="562" y="197.23076682296391" text-anchor="end" font-size="8" fill="#6B7280">0.0</text>
+<line x1="566" y1="104" x2="738" y2="104" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="562" y="107" text-anchor="end" font-size="8" fill="#6B7280">28.8</text>
+<text x="587.5" y="226" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="630.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="673.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="716.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="587.5,121.3 630.5,115.8 673.5,123.2 716.5,131.1 716.5,185.3 673.5,183.3 630.5,173.4 587.5,190.0" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 587.5 155.7 L 630.5 144.6 L 673.5 153.3 L 716.5 158.2" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="587.5" cy="155.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="630.5" cy="144.6" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="673.5" cy="153.3" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="716.5" cy="158.2" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="877" y="94" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">orphan_rate</text>
+<rect x="812" y="104" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="812" y1="206" x2="984" y2="206" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="808" y="209" text-anchor="end" font-size="8" fill="#6B7280">-0.017</text>
+<line x1="812" y1="189.174228942899" x2="984" y2="189.174228942899" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="808" y="192.174228942899" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="812" y1="104" x2="984" y2="104" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="808" y="107" text-anchor="end" font-size="8" fill="#6B7280">0.085</text>
+<text x="833.5" y="226" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="876.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="919.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="962.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="833.5,115.1 876.5,126.7 919.5,130.7 962.5,131.7 962.5,194.9 919.5,189.8 876.5,186.6 833.5,188.1" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 833.5 151.6 L 876.5 156.6 L 919.5 160.3 L 962.5 163.3" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="833.5" cy="151.6" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="876.5" cy="156.6" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="919.5" cy="160.3" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="962.5" cy="163.3" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1123" y="94" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">root_count</text>
+<rect x="1058" y="104" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="1058" y1="206" x2="1230" y2="206" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="1054" y="209" text-anchor="end" font-size="8" fill="#6B7280">-11</text>
+<line x1="1058" y1="190.83263572760228" x2="1230" y2="190.83263572760228" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="1054" y="193.83263572760228" text-anchor="end" font-size="8" fill="#6B7280">0</text>
+<line x1="1058" y1="104" x2="1230" y2="104" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="1054" y="107" text-anchor="end" font-size="8" fill="#6B7280">64</text>
+<text x="1079.5" y="226" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="1122.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="1165.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="1208.5" y="226" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="1079.5,136.2 1122.5,115.6 1165.5,115.3 1208.5,120.9 1208.5,166.2 1165.5,159.1 1122.5,151.2 1079.5,194.7" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 1079.5 165.4 L 1122.5 133.4 L 1165.5 137.2 L 1208.5 143.5" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="1079.5" cy="165.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1122.5" cy="133.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1165.5" cy="137.2" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1208.5" cy="143.5" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="139" y="274" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">leaf_count</text>
+<rect x="74" y="284" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="74" y1="386" x2="246" y2="386" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="70" y="389" text-anchor="end" font-size="8" fill="#6B7280">-4</text>
+<line x1="74" y1="374.230767166713" x2="246" y2="374.230767166713" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="70" y="377.230767166713" text-anchor="end" font-size="8" fill="#6B7280">0</text>
+<line x1="74" y1="284" x2="246" y2="284" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="70" y="287" text-anchor="end" font-size="8" fill="#6B7280">34</text>
+<text x="95.5" y="406" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="138.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="181.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="224.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="95.5,295.8 138.5,300.5 181.5,300.8 224.5,312.5 224.5,364.6 181.5,356.6 138.5,348.2 95.5,350.8" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 95.5 323.3 L 138.5 324.4 L 181.5 328.7 L 224.5 338.5" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="95.5" cy="323.3" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="138.5" cy="324.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="181.5" cy="328.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="224.5" cy="338.5" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="385" y="274" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">root_leaf_ratio</text>
+<rect x="320" y="284" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="320" y1="386" x2="492" y2="386" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="316" y="389" text-anchor="end" font-size="8" fill="#6B7280">-8.17</text>
+<line x1="320" y1="323.85094432566456" x2="492" y2="323.85094432566456" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="316" y="326.85094432566456" text-anchor="end" font-size="8" fill="#6B7280">0.00</text>
+<line x1="320" y1="284" x2="492" y2="284" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="316" y="287" text-anchor="end" font-size="8" fill="#6B7280">5.24</text>
+<text x="341.5" y="406" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="384.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="427.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="470.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="341.5,302.6 384.5,295.1 427.5,295.8 470.5,292.1 470.5,371.4 427.5,372.9 384.5,370.5 341.5,377.9" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 341.5 340.3 L 384.5 332.8 L 427.5 334.4 L 470.5 331.8" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="341.5" cy="340.3" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="384.5" cy="332.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="427.5" cy="334.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="470.5" cy="331.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="631" y="274" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">mean_depth</text>
+<rect x="566" y="284" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="566" y1="386" x2="738" y2="386" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="562" y="389" text-anchor="end" font-size="8" fill="#6B7280">-1.07</text>
+<line x1="566" y1="325.5014934765558" x2="738" y2="325.5014934765558" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="562" y="328.5014934765558" text-anchor="end" font-size="8" fill="#6B7280">0.00</text>
+<line x1="566" y1="284" x2="738" y2="284" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="562" y="287" text-anchor="end" font-size="8" fill="#6B7280">0.73</text>
+<text x="587.5" y="406" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="630.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="673.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="716.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="587.5,321.1 630.5,299.8 673.5,291.9 716.5,295.8 716.5,356.4 673.5,367.8 630.5,372.5 587.5,378.1" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 587.5 349.6 L 630.5 336.2 L 673.5 329.8 L 716.5 326.1" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="587.5" cy="349.6" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="630.5" cy="336.2" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="673.5" cy="329.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="716.5" cy="326.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="877" y="274" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">max_depth</text>
+<rect x="812" y="284" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="812" y1="386" x2="984" y2="386" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="808" y="389" text-anchor="end" font-size="8" fill="#6B7280">-3.7</text>
+<line x1="812" y1="335.334718810338" x2="984" y2="335.334718810338" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="808" y="338.334718810338" text-anchor="end" font-size="8" fill="#6B7280">0.0</text>
+<line x1="812" y1="284" x2="984" y2="284" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="808" y="287" text-anchor="end" font-size="8" fill="#6B7280">3.8</text>
+<text x="833.5" y="406" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="876.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="919.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="962.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="833.5,312.1 876.5,297.9 919.5,290.7 962.5,295.9 962.5,358.4 919.5,367.2 876.5,368.4 833.5,379.3" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 833.5 345.7 L 876.5 333.1 L 919.5 329.0 L 962.5 327.1" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="833.5" cy="345.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="876.5" cy="333.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="919.5" cy="329.0" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="962.5" cy="327.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1123" y="274" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">mean_in_degree</text>
+<rect x="1058" y="284" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="1058" y1="386" x2="1230" y2="386" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="1054" y="389" text-anchor="end" font-size="8" fill="#6B7280">-0.204</text>
+<line x1="1058" y1="328.0828846907844" x2="1230" y2="328.0828846907844" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="1054" y="331.0828846907844" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="1058" y1="284" x2="1230" y2="284" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="1054" y="287" text-anchor="end" font-size="8" fill="#6B7280">0.155</text>
+<text x="1079.5" y="406" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="1122.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="1165.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="1208.5" y="406" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="1079.5,291.6 1122.5,313.6 1165.5,304.1 1208.5,303.2 1208.5,370.1 1165.5,378.0 1122.5,378.4 1079.5,371.2" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 1079.5 331.4 L 1122.5 346.0 L 1165.5 341.1 L 1208.5 336.6" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="1079.5" cy="331.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1122.5" cy="346.0" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1165.5" cy="341.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1208.5" cy="336.6" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="139" y="454" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">max_in_degree</text>
+<rect x="74" y="464" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="74" y1="566" x2="246" y2="566" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="70" y="569" text-anchor="end" font-size="8" fill="#6B7280">-3.9</text>
+<line x1="74" y1="515.6581663634672" x2="246" y2="515.6581663634672" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="70" y="518.6581663634672" text-anchor="end" font-size="8" fill="#6B7280">0.0</text>
+<line x1="74" y1="464" x2="246" y2="464" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="70" y="467" text-anchor="end" font-size="8" fill="#6B7280">4.0</text>
+<text x="95.5" y="586" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="138.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="181.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="224.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="95.5,486.4 138.5,470.7 181.5,483.9 224.5,482.4 224.5,555.1 181.5,552.9 138.5,550.7 95.5,559.3" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 95.5 522.8 L 138.5 510.7 L 181.5 518.4 L 224.5 518.7" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="95.5" cy="522.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="138.5" cy="510.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="181.5" cy="518.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="224.5" cy="518.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="385" y="454" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">branching_factor</text>
+<rect x="320" y="464" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="320" y1="566" x2="492" y2="566" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="316" y="569" text-anchor="end" font-size="8" fill="#6B7280">-0.15</text>
+<line x1="320" y1="535.4460987973448" x2="492" y2="535.4460987973448" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="316" y="538.4460987973448" text-anchor="end" font-size="8" fill="#6B7280">0.00</text>
+<line x1="320" y1="464" x2="492" y2="464" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="316" y="467" text-anchor="end" font-size="8" fill="#6B7280">0.35</text>
+<text x="341.5" y="586" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="384.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="427.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="470.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="341.5,473.3 384.5,513.2 427.5,509.0 470.5,506.4 470.5,556.7 427.5,552.6 384.5,551.7 341.5,530.9" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 341.5 502.1 L 384.5 532.4 L 427.5 530.8 L 470.5 531.5" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="341.5" cy="502.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="384.5" cy="532.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="427.5" cy="530.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="470.5" cy="531.5" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="631" y="454" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">F_prop</text>
+<rect x="566" y="464" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="566" y1="566" x2="738" y2="566" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="562" y="569" text-anchor="end" font-size="8" fill="#6B7280">-0.213</text>
+<line x1="566" y1="498.73126374517994" x2="738" y2="498.73126374517994" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="562" y="501.73126374517994" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="566" y1="464" x2="738" y2="464" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="562" y="467" text-anchor="end" font-size="8" fill="#6B7280">0.110</text>
+<text x="587.5" y="586" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="630.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="673.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="716.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="587.5,474.9 630.5,474.4 673.5,477.1 716.5,472.8 716.5,535.1 673.5,546.4 630.5,539.8 587.5,557.2" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 587.5 516.0 L 630.5 507.1 L 673.5 511.8 L 716.5 503.9" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="587.5" cy="516.0" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="630.5" cy="507.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="673.5" cy="511.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="716.5" cy="503.9" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="877" y="454" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">M_prop</text>
+<rect x="812" y="464" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="812" y1="566" x2="984" y2="566" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="808" y="569" text-anchor="end" font-size="8" fill="#6B7280">-0.260</text>
+<line x1="812" y1="488.16167616932626" x2="984" y2="488.16167616932626" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="808" y="491.16167616932626" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="812" y1="464" x2="984" y2="464" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="808" y="467" text-anchor="end" font-size="8" fill="#6B7280">0.081</text>
+<text x="833.5" y="586" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="876.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="919.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="962.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="833.5,493.5 876.5,484.1 919.5,475.7 962.5,474.2 962.5,531.7 919.5,538.2 876.5,546.7 833.5,555.8" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 833.5 524.7 L 876.5 515.4 L 919.5 506.9 L 962.5 502.9" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="833.5" cy="524.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="876.5" cy="515.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="919.5" cy="506.9" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="962.5" cy="502.9" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1123" y="454" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">V_prop</text>
+<rect x="1058" y="464" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="1058" y1="566" x2="1230" y2="566" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="1054" y="569" text-anchor="end" font-size="8" fill="#6B7280">-0.033</text>
+<line x1="1058" y1="551.161287274786" x2="1230" y2="551.161287274786" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="1054" y="554.161287274786" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="1058" y1="464" x2="1230" y2="464" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="1054" y="467" text-anchor="end" font-size="8" fill="#6B7280">0.197</text>
+<text x="1079.5" y="586" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="1122.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="1165.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="1208.5" y="586" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="1079.5,478.5 1122.5,482.8 1165.5,475.4 1208.5,488.4 1208.5,553.3 1165.5,542.7 1122.5,548.2 1079.5,554.6" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 1079.5 516.6 L 1122.5 515.5 L 1165.5 509.0 L 1208.5 520.9" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="1079.5" cy="516.6" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1122.5" cy="515.5" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1165.5" cy="509.0" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1208.5" cy="520.9" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="139" y="634" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">P_prop</text>
+<rect x="74" y="644" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="74" y1="746" x2="246" y2="746" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="70" y="749" text-anchor="end" font-size="8" fill="#6B7280">-0.097</text>
+<line x1="74" y1="714.2858167682059" x2="246" y2="714.2858167682059" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="70" y="717.2858167682059" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="74" y1="644" x2="246" y2="644" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="70" y="647" text-anchor="end" font-size="8" fill="#6B7280">0.215</text>
+<text x="95.5" y="766" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="138.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="181.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="224.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="95.5,653.2 138.5,680.3 181.5,689.3 224.5,693.5 224.5,736.8 181.5,733.5 138.5,724.0 95.5,711.0" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 95.5 682.1 L 138.5 702.2 L 181.5 711.4 L 224.5 715.1" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="95.5" cy="682.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="138.5" cy="702.2" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="181.5" cy="711.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="224.5" cy="715.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="385" y="634" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">s_rate</text>
+<rect x="320" y="644" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="320" y1="746" x2="492" y2="746" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="316" y="749" text-anchor="end" font-size="8" fill="#6B7280">-0.240</text>
+<line x1="320" y1="682.2875012496098" x2="492" y2="682.2875012496098" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="316" y="685.2875012496098" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="320" y1="644" x2="492" y2="644" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="316" y="647" text-anchor="end" font-size="8" fill="#6B7280">0.144</text>
+<text x="341.5" y="766" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="384.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="427.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="470.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="341.5,671.1 384.5,659.4 427.5,654.3 470.5,652.3 470.5,715.5 427.5,707.4 384.5,716.0 341.5,737.7" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 341.5 704.4 L 384.5 687.7 L 427.5 680.9 L 470.5 683.9" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="341.5" cy="704.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="384.5" cy="687.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="427.5" cy="680.9" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="470.5" cy="683.9" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="631" y="634" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">w_rate</text>
+<rect x="566" y="644" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="566" y1="746" x2="738" y2="746" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="562" y="749" text-anchor="end" font-size="8" fill="#6B7280">-0.096</text>
+<line x1="566" y1="695.8494067228409" x2="738" y2="695.8494067228409" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="562" y="698.8494067228409" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="566" y1="644" x2="738" y2="644" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="562" y="647" text-anchor="end" font-size="8" fill="#6B7280">0.100</text>
+<text x="587.5" y="766" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="630.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="673.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="716.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="587.5,669.3 630.5,665.0 673.5,662.5 716.5,650.8 716.5,722.7 673.5,731.8 630.5,735.0 587.5,739.2" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 587.5 704.3 L 630.5 700.0 L 673.5 697.1 L 716.5 686.7" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="587.5" cy="704.3" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="630.5" cy="700.0" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="673.5" cy="697.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="716.5" cy="686.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="877" y="634" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">j_rate</text>
+<rect x="812" y="644" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="812" y1="746" x2="984" y2="746" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="808" y="749" text-anchor="end" font-size="8" fill="#6B7280">-0.093</text>
+<line x1="812" y1="713.8906822798965" x2="984" y2="713.8906822798965" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="808" y="716.8906822798965" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="812" y1="644" x2="984" y2="644" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="808" y="647" text-anchor="end" font-size="8" fill="#6B7280">0.202</text>
+<text x="833.5" y="766" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="876.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="919.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="962.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="833.5,653.1 876.5,679.2 919.5,676.5 962.5,684.7 962.5,736.9 919.5,728.6 876.5,726.3 833.5,714.8" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 833.5 683.9 L 876.5 702.7 L 919.5 702.5 L 962.5 710.8" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="833.5" cy="683.9" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="876.5" cy="702.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="919.5" cy="702.5" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="962.5" cy="710.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1123" y="634" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">e_rate</text>
+<rect x="1058" y="644" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="1058" y1="746" x2="1230" y2="746" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="1054" y="749" text-anchor="end" font-size="8" fill="#6B7280">-0.098</text>
+<line x1="1058" y1="691.3033575063739" x2="1230" y2="691.3033575063739" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="1054" y="694.3033575063739" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="1058" y1="644" x2="1230" y2="644" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="1054" y="647" text-anchor="end" font-size="8" fill="#6B7280">0.085</text>
+<text x="1079.5" y="766" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="1122.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="1165.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="1208.5" y="766" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="1079.5,651.1 1122.5,662.8 1165.5,683.4 1208.5,668.8 1208.5,736.4 1165.5,738.9 1122.5,724.1 1079.5,717.0" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 1079.5 684.1 L 1122.5 693.5 L 1165.5 711.1 L 1208.5 702.6" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="1079.5" cy="684.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1122.5" cy="693.5" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1165.5" cy="711.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1208.5" cy="702.6" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="139" y="814" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">s_w_ratio</text>
+<rect x="74" y="824" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="74" y1="926" x2="246" y2="926" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="70" y="929" text-anchor="end" font-size="8" fill="#6B7280">-34.79</text>
+<line x1="74" y1="865.7014148119408" x2="246" y2="865.7014148119408" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="70" y="868.7014148119408" text-anchor="end" font-size="8" fill="#6B7280">0.00</text>
+<line x1="74" y1="824" x2="246" y2="824" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="70" y="827" text-anchor="end" font-size="8" fill="#6B7280">24.06</text>
+<text x="95.5" y="946" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="138.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="181.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="224.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="95.5,831.9 138.5,842.7 181.5,835.2 224.5,846.5 224.5,918.1 181.5,914.2 138.5,908.9 95.5,906.8" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 95.5 869.3 L 138.5 875.8 L 181.5 874.7 L 224.5 882.3" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="95.5" cy="869.3" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="138.5" cy="875.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="181.5" cy="874.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="224.5" cy="882.3" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="385" y="814" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">chain_count</text>
+<rect x="320" y="824" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="320" y1="926" x2="492" y2="926" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="316" y="929" text-anchor="end" font-size="8" fill="#6B7280">-153</text>
+<line x1="320" y1="900.0471448945982" x2="492" y2="900.0471448945982" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="316" y="903.0471448945982" text-anchor="end" font-size="8" fill="#6B7280">0</text>
+<line x1="320" y1="824" x2="492" y2="824" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="316" y="827" text-anchor="end" font-size="8" fill="#6B7280">448</text>
+<text x="341.5" y="946" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="384.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="427.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="470.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="341.5,857.1 384.5,843.0 427.5,833.9 470.5,842.4 470.5,896.2 427.5,898.3 384.5,900.5 341.5,916.1" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 341.5 886.6 L 384.5 871.8 L 427.5 866.1 L 470.5 869.3" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="341.5" cy="886.6" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="384.5" cy="871.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="427.5" cy="866.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="470.5" cy="869.3" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="631" y="814" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">chains_pure_s</text>
+<rect x="566" y="824" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="566" y1="926" x2="738" y2="926" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="562" y="929" text-anchor="end" font-size="8" fill="#6B7280">-75</text>
+<line x1="566" y1="898.2867915500591" x2="738" y2="898.2867915500591" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="562" y="901.2867915500591" text-anchor="end" font-size="8" fill="#6B7280">0</text>
+<line x1="566" y1="824" x2="738" y2="824" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="562" y="827" text-anchor="end" font-size="8" fill="#6B7280">201</text>
+<text x="587.5" y="946" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="630.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="673.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="716.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="587.5,870.9 630.5,843.1 673.5,833.7 716.5,852.3 716.5,893.8 673.5,897.3 630.5,899.7 587.5,916.3" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 587.5 893.6 L 630.5 871.4 L 673.5 865.5 L 716.5 873.0" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="587.5" cy="893.6" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="630.5" cy="871.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="673.5" cy="865.5" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="716.5" cy="873.0" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="877" y="814" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">chains_contain_w</text>
+<rect x="812" y="824" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="812" y1="926" x2="984" y2="926" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="808" y="929" text-anchor="end" font-size="8" fill="#6B7280">-54</text>
+<line x1="812" y1="895.046778323591" x2="984" y2="895.046778323591" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="808" y="898.046778323591" text-anchor="end" font-size="8" fill="#6B7280">0</text>
+<line x1="812" y1="824" x2="984" y2="824" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="808" y="827" text-anchor="end" font-size="8" fill="#6B7280">125</text>
+<text x="833.5" y="946" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="876.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="919.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="962.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="833.5,868.1 876.5,860.9 919.5,853.3 962.5,833.3 962.5,891.8 919.5,900.5 876.5,909.7 833.5,916.7" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 833.5 892.4 L 876.5 885.3 L 919.5 876.9 L 962.5 862.5" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="833.5" cy="892.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="876.5" cy="885.3" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="919.5" cy="876.9" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="962.5" cy="862.5" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="1123" y="814" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">chains_contain_j</text>
+<rect x="1058" y="824" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="1058" y1="926" x2="1230" y2="926" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="1054" y="929" text-anchor="end" font-size="8" fill="#6B7280">-101</text>
+<line x1="1058" y1="891.6892496224941" x2="1230" y2="891.6892496224941" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="1054" y="894.6892496224941" text-anchor="end" font-size="8" fill="#6B7280">0</text>
+<line x1="1058" y1="824" x2="1230" y2="824" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="1054" y="827" text-anchor="end" font-size="8" fill="#6B7280">200</text>
+<text x="1079.5" y="946" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="1122.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="1165.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="1208.5" y="946" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="1079.5,832.8 1122.5,842.1 1165.5,832.9 1208.5,835.4 1208.5,916.0 1165.5,905.8 1122.5,905.9 1079.5,917.2" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 1079.5 875.0 L 1122.5 874.0 L 1165.5 869.4 L 1208.5 875.7" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="1079.5" cy="875.0" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1122.5" cy="874.0" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1165.5" cy="869.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="1208.5" cy="875.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="139" y="994" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">chains_contain_e</text>
+<rect x="74" y="1004" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="74" y1="1106" x2="246" y2="1106" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="70" y="1109" text-anchor="end" font-size="8" fill="#6B7280">-71</text>
+<line x1="74" y1="1074.716470940448" x2="246" y2="1074.716470940448" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="70" y="1077.716470940448" text-anchor="end" font-size="8" fill="#6B7280">0</text>
+<line x1="74" y1="1004" x2="246" y2="1004" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="70" y="1007" text-anchor="end" font-size="8" fill="#6B7280">160</text>
+<text x="95.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="138.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="181.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="224.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="95.5,1016.8 138.5,1017.7 181.5,1019.0 224.5,1013.2 224.5,1091.6 181.5,1092.1 138.5,1090.0 95.5,1096.8" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 95.5 1056.8 L 138.5 1053.9 L 181.5 1055.6 L 224.5 1052.4" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="95.5" cy="1056.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="138.5" cy="1053.9" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="181.5" cy="1055.6" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="224.5" cy="1052.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="385" y="994" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">strict_ext_rate</text>
+<rect x="320" y="1004" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="320" y1="1106" x2="492" y2="1106" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="316" y="1109" text-anchor="end" font-size="8" fill="#6B7280">-0.314</text>
+<line x1="320" y1="1026.1418343210682" x2="492" y2="1026.1418343210682" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="316" y="1029.1418343210682" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="320" y1="1004" x2="492" y2="1004" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="316" y="1007" text-anchor="end" font-size="8" fill="#6B7280">0.087</text>
+<text x="341.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="384.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="427.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="470.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="341.5,1027.9 384.5,1019.1 427.5,1014.4 470.5,1017.9 470.5,1086.8 427.5,1086.9 384.5,1083.0 341.5,1095.6" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 341.5 1061.7 L 384.5 1051.0 L 427.5 1050.7 L 470.5 1052.4" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="341.5" cy="1061.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="384.5" cy="1051.0" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="427.5" cy="1050.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="470.5" cy="1052.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="631" y="994" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">lenient_rate</text>
+<rect x="566" y="1004" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="566" y1="1106" x2="738" y2="1106" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="562" y="1109" text-anchor="end" font-size="8" fill="#6B7280">-0.688</text>
+<line x1="566" y1="1015.769331634315" x2="738" y2="1015.769331634315" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="562" y="1018.769331634315" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="566" y1="1004" x2="738" y2="1004" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="562" y="1007" text-anchor="end" font-size="8" fill="#6B7280">0.090</text>
+<text x="587.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="630.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="673.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="716.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="587.5,1023.6 630.5,1025.4 673.5,1019.9 716.5,1017.7 716.5,1090.8 673.5,1094.2 630.5,1093.5 587.5,1092.7" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 587.5 1058.1 L 630.5 1059.4 L 673.5 1057.1 L 716.5 1054.2" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="587.5" cy="1058.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="630.5" cy="1059.4" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="673.5" cy="1057.1" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="716.5" cy="1054.2" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<text x="877" y="994" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E2A32">delta</text>
+<rect x="812" y="1004" width="172" height="102" fill="#FAFBFC" stroke="#E5E7EB" stroke-width="0.5"/>
+<line x1="812" y1="1106" x2="984" y2="1106" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="808" y="1109" text-anchor="end" font-size="8" fill="#6B7280">-0.495</text>
+<line x1="812" y1="1019.6076857460539" x2="984" y2="1019.6076857460539" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="808" y="1022.6076857460539" text-anchor="end" font-size="8" fill="#6B7280">0.000</text>
+<line x1="812" y1="1004" x2="984" y2="1004" stroke="#F3F4F6" stroke-width="0.5" stroke-dasharray=""/>
+<text x="808" y="1007" text-anchor="end" font-size="8" fill="#6B7280">0.089</text>
+<text x="833.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">TMBA</text>
+<text x="876.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">E1</text>
+<text x="919.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">E2</text>
+<text x="962.5" y="1126" text-anchor="middle" font-size="9" fill="#374151">E3</text>
+<polygon points="833.5,1017.7 876.5,1026.6 919.5,1022.7 962.5,1015.3 962.5,1090.4 919.5,1092.8 876.5,1094.7 833.5,1085.4" fill="#3B7DAB" opacity="0.18"/>
+<path d="M 833.5 1051.5 L 876.5 1060.7 L 919.5 1057.8 L 962.5 1052.8" fill="none" stroke="#3B7DAB" stroke-width="2"/>
+<circle cx="833.5" cy="1051.5" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="876.5" cy="1060.7" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="919.5" cy="1057.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="962.5" cy="1052.8" r="3.5" fill="#1E2A32" stroke="#FFFFFF" stroke-width="1"/>
+<line x1="24" y1="1152" x2="48" y2="1152" stroke="#9CA3AF" stroke-width="1.2" stroke-dasharray="3,2"/>
+<text x="54" y="1155" font-size="10" fill="#374151">Zero line = parity with human</text>
+<line x1="224" y1="1152" x2="248" y2="1152" stroke="#3B7DAB" stroke-width="2"/>
+<text x="254" y="1155" font-size="10" fill="#374151">Mean (AI rung − Human)</text>
+<rect x="424" y="1147" width="24" height="10" fill="#3B7DAB" opacity="0.18"/>
+<text x="454" y="1155" font-size="10" fill="#374151">±1 SD across the 25 entity pairs</text>
+<text x="644" y="1155" font-size="10" fill="#6B7280">Each rung = mean of 3 seeds per entity. Source: analysis-outputs/structural-v2-per-doc.csv + per-doc-metrics.csv + inferential-per-doc.csv.</text>
+</svg>
